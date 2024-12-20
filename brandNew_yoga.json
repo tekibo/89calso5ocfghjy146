@@ -1,7 +1,7 @@
 {
     "Yoga": {
         "Styles of Yoga": {
-            "Hatha Yoga": [
+            "Hatha_Yoga": [
                 {
                     "pose": "Sun Salutations (Surya Namaskar)",
                     "calories_burned": 0.05
@@ -19,7 +19,7 @@
                     "calories_burned": 0.06
                 }
             ],
-            "Vinyasa Yoga": [
+            "Vinyasa_Yoga": [
                 {
                     "pose": "Downward Dog (Adho Mukha Svanasana)",
                     "calories_burned": 0.05
@@ -37,7 +37,7 @@
                     "calories_burned": 0.06
                 }
             ],
-            "Ashtanga Yoga": [
+            "Ashtanga_Yoga": [
                 {
                     "pose": "Primary Series (Yoga Chikitsa)",
                     "calories_burned": 0.06
@@ -55,7 +55,7 @@
                     "calories_burned": 0.06
                 }
             ],
-            "Iyengar Yoga": [
+            "Iyengar_Yoga": [
                 {
                     "pose": "Extended Side Angle Pose (Utthita Parsvakonasana)",
                     "calories_burned": 0.06
@@ -73,7 +73,7 @@
                     "calories_burned": 0.06
                 }
             ],
-            "Restorative Yoga": [
+            "Restorative_Yoga": [
                 {
                     "pose": "Child's Pose (Balasana)",
                     "calories_burned": 0.05
@@ -91,7 +91,7 @@
                     "calories_burned": 0.06
                 }
             ],
-            "Yin Yoga": [
+            "Yin_Yoga": [
                 {
                     "pose": "Dragon Pose",
                     "calories_burned": 0.06
@@ -109,7 +109,7 @@
                     "calories_burned": 0.13
                 }
             ],
-            "Power Yoga": [
+            "Power_Yoga": [
                 {
                     "pose": "Chair Pose (Utkatasana)",
                     "calories_burned": 0.06
@@ -127,7 +127,7 @@
                     "calories_burned": 0.06
                 }
             ],
-            "Bikram/Hot Yoga": [
+            "Bikram/Hot_Yoga": [
                 {
                     "pose": "Standing Bow Pose (Dandayamana Dhanurasana)",
                     "calories_burned": 0.04
@@ -201,7 +201,7 @@
                     "calories_burned": 0.06
                 }
             ],
-            "Stress Relief": [
+            "Stress_Relief": [
                 {
                     "pose": "Child's Pose (Balasana)",
                     "calories_burned": 0.05
@@ -219,7 +219,7 @@
                     "calories_burned": 0.06
                 }
             ],
-            "Core Strength": [
+            "Core_Strength": [
                 {
                     "pose": "Boat Pose (Navasana)",
                     "calories_burned": 0.06
@@ -237,7 +237,7 @@
                     "calories_burned": 0.06
                 }
             ],
-            "Back Pain Relief": [
+            "Back_Pain_Relief": [
                 {
                     "pose": "Sphinx Pose",
                     "calories_burned": 0.06
@@ -257,7 +257,7 @@
             ]
         },
         "Pranayama (Breathing Exercises)": {
-            "Calming Breathwork": [
+            "Calming_Breathwork": [
                 {
                     "pose": "Alternate Nostril Breathing (Nadi Shodhana)",
                     "calories_burned": 0.02
@@ -271,7 +271,7 @@
                     "calories_burned": 0.06
                 }
             ],
-            "Energizing Breathwork": [
+            "Energizing_Breathwork": [
                 {
                     "pose": "Bellows Breath (Bhastrika Pranayama)",
                     "calories_burned": 0.06
@@ -281,7 +281,7 @@
                     "calories_burned": 0.06
                 }
             ],
-            "Meditative Breathwork": [
+            "Meditative_Breathwork": [
                 {
                     "pose": "Equal Breathing (Sama Vritti)",
                     "calories_burned": 0.02
@@ -293,7 +293,7 @@
             ]
         },
         "Meditation and Mindfulness": {
-            "Guided Meditation": [
+            "Guided_Meditation": [
                 {
                     "pose": "Body Scan Meditation",
                     "calories_burned": 0.02
@@ -303,7 +303,7 @@
                     "calories_burned": 0.02
                 }
             ],
-            "Silent Meditation": [
+            "Silent_Meditation": [
                 {
                     "pose": "Mindfulness of Breathing",
                     "calories_burned": 0.02
@@ -313,7 +313,7 @@
                     "calories_burned": 0.02
                 }
             ],
-            "Dynamic Meditation": [
+            "Dynamic_Meditation": [
                 {
                     "pose": "Walking Meditation",
                     "calories_burned": 1.75
@@ -325,7 +325,7 @@
             ]
         },
         "Yoga Sequences": {
-            "Morning Yoga": [
+            "Morning_Yoga": [
                 {
                     "pose": "Sun Salutations (Surya Namaskar)",
                     "calories_burned": 0.05
@@ -343,7 +343,7 @@
                     "calories_burned": 0.06
                 }
             ],
-            "Evening Yoga": [
+            "Evening_Yoga": [
                 {
                     "pose": "Child's Pose (Balasana)",
                     "calories_burned": 0.05
@@ -361,7 +361,7 @@
                     "calories_burned": 0.06
                 }
             ],
-            "Yoga for Athletes": [
+            "Yoga_for_Athletes": [
                 {
                     "pose": "Runner's Lunge (Utthita Ashwa Sanchalanasana)",
                     "calories_burned": 0.63
