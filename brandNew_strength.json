@@ -1,7 +1,7 @@
 {
     "Strength": {
         "Chest": {
-            "Upper Chest": [
+            "Upper": [
                 {
                     "exercise": "Incline dumbbell press",
                     "calories_burned": 1.75
@@ -43,7 +43,7 @@
                     "calories_burned": 0.06
                 }
             ],
-            "Lower Chest": [
+            "Lower": [
                 {
                     "exercise": "Decline dumbbell press",
                     "calories_burned": 1.75
@@ -85,7 +85,7 @@
                     "calories_burned": 1.25
                 }
             ],
-            "Chest Isolation": [
+            "Chest_Isolation": [
                 {
                     "exercise": "Chest flyes",
                     "calories_burned": 0.06
@@ -727,7 +727,7 @@
             ]
         },
         "Forearms": {
-            "Wrist Flexors": [
+            "Wrist_Flexors": [
                 {
                     "exercise": "Wrist curl",
                     "calories_burned": 0.06
@@ -769,7 +769,7 @@
                     "calories_burned": 0.06
                 }
             ],
-            "Wrist Extensors": [
+            "Wrist_Extensors": [
                 {
                     "exercise": "Wrist extension",
                     "calories_burned": 0.06
@@ -811,7 +811,7 @@
                     "calories_burned": 0.06
                 }
             ],
-            "Grip Strength": [
+            "Grip_Strength": [
                 {
                     "exercise": "Plate pinch",
                     "calories_burned": 0.06
