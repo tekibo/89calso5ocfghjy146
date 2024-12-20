@@ -1,6 +1,6 @@
 {
   "Cardio": {
-    "High-Intensity Interval Training (HIIT)": [
+    "HIIT": [
       {
         "workout": "Sprints",
         "calories_burned": 0.2
@@ -126,7 +126,7 @@
         "calories_burned": 0.32
       }
     ],
-    "Steady-State Cardio": [
+    "Steady-State_Cardio": [
       {
         "workout": "Running (outdoor)",
         "calories_burned": 0.16
@@ -252,7 +252,7 @@
         "calories_burned": 0.12
       }
     ],
-    "Machine-Based Cardio": [
+    "Machine-Based_Cardio": [
       {
         "workout": "Treadmill",
         "calories_burned": 0.06
@@ -378,7 +378,7 @@
         "calories_burned": 0.06
       }
     ],
-    "Outdoor Cardio": [
+    "Outdoor_Cardio": [
       {
         "workout": "Hiking (trails or mountains)",
         "calories_burned": 0.13
@@ -504,7 +504,7 @@
         "calories_burned": 0.06
       }
     ],
-    "Dance and Aerobics": [
+    "Dance_and_Aerobics": [
       {
         "workout": "Zumba",
         "calories_burned": 0.08
@@ -630,7 +630,7 @@
         "calories_burned": 0.13
       }
     ],
-    "Low-Impact Cardio": [
+    "Low-Impact_Cardio": [
       {
         "workout": "Walking (outdoor or treadmill)",
         "calories_burned": 0.06
@@ -756,7 +756,7 @@
         "calories_burned": 0.1
       }
     ],
-    "Sports-Based Cardio": [
+    "Sports-Based_Cardio": [
       {
         "workout": "Basketball (shooting, games, or drills)",
         "calories_burned": 3.25
@@ -882,7 +882,7 @@
         "calories_burned": 0.12
       }
     ],
-    "General Day-to-Day Activities": [
+    "General_Day-to-Day_Activities": [
       {
         "workout": "Brisk walking to work or errands",
         "calories_burned": 1.75
@@ -1008,7 +1008,7 @@
         "calories_burned": 1.95
       }
     ],
-    "Adventure and Recreational Cardio": [
+    "Adventure_and_Recreational_Cardio": [
       {
         "workout": "Surfing",
         "calories_burned": 0.05
