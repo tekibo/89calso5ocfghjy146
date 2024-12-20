@@ -1,0 +1,858 @@
+{
+    "Strength": {
+        "Chest": {
+            "Upper Chest": [
+                {
+                    "exercise": "Incline dumbbell press",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Incline cable crossovers",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Incline dumbbell flyes",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Incline barbell press",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Incline Smith machine press",
+                    "calories_burned": 3
+                },
+                {
+                    "exercise": "Low-to-high cable flyes",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Incline push-ups",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Reverse grip incline bench press",
+                    "calories_burned": 0.13
+                },
+                {
+                    "exercise": "Incline hammer strength press",
+                    "calories_burned": 0.5
+                },
+                {
+                    "exercise": "Landmine press",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Lower Chest": [
+                {
+                    "exercise": "Decline dumbbell press",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Decline cable crossovers",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Decline dumbbell flyes",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Decline barbell press",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Decline Smith machine press",
+                    "calories_burned": 3
+                },
+                {
+                    "exercise": "High-to-low cable flyes",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Decline push-ups",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Dips for chest",
+                    "calories_burned": 0.32
+                },
+                {
+                    "exercise": "Decline hammer strength press",
+                    "calories_burned": 0.5
+                },
+                {
+                    "exercise": "Standing cable press",
+                    "calories_burned": 1.25
+                }
+            ],
+            "Chest Isolation": [
+                {
+                    "exercise": "Chest flyes",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Cable crossovers",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Dumbbell flyes",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Pec deck machine",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Plate squeeze press",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Single-arm cable flyes",
+                    "calories_burned": 1.4
+                },
+                {
+                    "exercise": "Machine flyes",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Svend press",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Around the worlds",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Resistance band flyes",
+                    "calories_burned": 0.07
+                }
+            ]
+        },
+        "Back": {
+            "Upper": [
+                {
+                    "exercise": "Pull-ups",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Barbell rows",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Dumbbell rows",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Seated cable rows",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Lat pulldowns",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Meadows rows",
+                    "calories_burned": 0.08
+                },
+                {
+                    "exercise": "Face pulls",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Straight arm pulldowns",
+                    "calories_burned": 1.4
+                },
+                {
+                    "exercise": "Single-arm lat pulldowns",
+                    "calories_burned": 1.4
+                },
+                {
+                    "exercise": "Machine rows",
+                    "calories_burned": 0.08
+                }
+            ],
+            "Lower": [
+                {
+                    "exercise": "Bent-over rows",
+                    "calories_burned": 0.08
+                },
+                {
+                    "exercise": "Hyperextensions",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Bird dog",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Good mornings",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Deadlifts",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Superman holds",
+                    "calories_burned": 0.05
+                },
+                {
+                    "exercise": "Reverse hypers",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "45-degree back extensions",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Cable pull-throughs",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Rack pulls",
+                    "calories_burned": 0.06
+                }
+            ]
+        },
+        "Arms": {
+            "Biceps": [
+                {
+                    "exercise": "Barbell curls",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Dumbbell curls",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Preacher curls",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Hammer curls",
+                    "calories_burned": 0.5
+                },
+                {
+                    "exercise": "Concentration curls",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Cable curls",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Incline dumbbell curls",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Spider curls",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Reverse curls",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "EZ bar curls",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Triceps": [
+                {
+                    "exercise": "Close-grip bench press",
+                    "calories_burned": 0.13
+                },
+                {
+                    "exercise": "Overhead triceps extensions",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Triceps pushdowns",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Skull crushers",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Triceps dips",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Diamond push-ups",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Rope pushdowns",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Single-arm tricep extensions",
+                    "calories_burned": 1.4
+                },
+                {
+                    "exercise": "JM press",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Triceps kickbacks",
+                    "calories_burned": 1.75
+                }
+            ]
+        },
+        "Legs": {
+            "Quadriceps": [
+                {
+                    "exercise": "Barbell squats",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Leg press",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Leg extensions",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Front squats",
+                    "calories_burned": 0.08
+                },
+                {
+                    "exercise": "Hack squats",
+                    "calories_burned": 0.08
+                },
+                {
+                    "exercise": "Bulgarian split squats",
+                    "calories_burned": 0.08
+                },
+                {
+                    "exercise": "Sissy squats",
+                    "calories_burned": 0.08
+                },
+                {
+                    "exercise": "Walking lunges",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Step-ups",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Smith machine squats",
+                    "calories_burned": 3
+                }
+            ],
+            "Hamstrings": [
+                {
+                    "exercise": "Romanian deadlifts",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Leg curls",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Good mornings",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Nordic curls",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Glute-ham raises",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Single-leg deadlifts",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Seated leg curls",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Lying leg curls",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Cable pull-throughs",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Stability ball leg curls",
+                    "calories_burned": 1.25
+                }
+            ],
+            "Glutes": [
+                {
+                    "exercise": "Barbell hip thrusts",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Donkey kicks",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Glute bridges",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Cable kickbacks",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Bulgarian split squats",
+                    "calories_burned": 0.08
+                },
+                {
+                    "exercise": "Sumo deadlifts",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Single-leg hip thrusts",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Banded lateral walks",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Step-ups",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Glute-focused hyperextensions",
+                    "calories_burned": 1.75
+                }
+            ],
+            "Calves": [
+                {
+                    "exercise": "Standing calf raises",
+                    "calories_burned": 1.25
+                },
+                {
+                    "exercise": "Seated calf raises",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Leg press calf raises",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Smith machine calf raises",
+                    "calories_burned": 3
+                },
+                {
+                    "exercise": "Single-leg calf raises",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Donkey calf raises",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Jump rope",
+                    "calories_burned": 0.15
+                },
+                {
+                    "exercise": "Box jumps",
+                    "calories_burned": 0.13
+                },
+                {
+                    "exercise": "Tibialis raises",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Farmer's walks on toes",
+                    "calories_burned": 0.06
+                }
+            ]
+        },
+        "Shoulders": {
+            "Anterior": [
+                {
+                    "exercise": "Dumbbell front raises",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Military press",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Arnold press",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Landmine press",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Cable front raises",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Plate front raises",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Push press",
+                    "calories_burned": 0.1
+                },
+                {
+                    "exercise": "Smith machine shoulder press",
+                    "calories_burned": 3
+                },
+                {
+                    "exercise": "Seated dumbbell press",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Alternating front raises",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Lateral": [
+                {
+                    "exercise": "Lateral raises",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Cable lateral raises",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Machine lateral raises",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Leaning lateral raises",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Seated lateral raises",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Band lateral raises",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Upright rows",
+                    "calories_burned": 0.08
+                },
+                {
+                    "exercise": "Behind-body lateral raises",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Partial lateral raises",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Egyptian lateral raises",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Posterior": [
+                {
+                    "exercise": "Bent-over lateral raises",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Face pulls",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Reverse pec deck",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Band pull-aparts",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Reverse cable crossovers",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Prone Y raises",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Seated bent-over raises",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Cable Y raises",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Incline bench rear delt raises",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Resistance band pull-aparts",
+                    "calories_burned": 0.07
+                }
+            ]
+        },
+        "Abs": {
+            "Upper": [
+                {
+                    "exercise": "Crunches",
+                    "calories_burned": 0.05
+                },
+                {
+                    "exercise": "Leg raises",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Cable crunches",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Decline crunches",
+                    "calories_burned": 0.05
+                },
+                {
+                    "exercise": "V-ups",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Ab wheel rollouts",
+                    "calories_burned": 0.05
+                },
+                {
+                    "exercise": "Dragon flags",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Weighted crunches",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Swiss ball crunches",
+                    "calories_burned": 1.25
+                },
+                {
+                    "exercise": "Reverse crunches",
+                    "calories_burned": 0.05
+                }
+            ],
+            "Middle": [
+                {
+                    "exercise": "Bicycle crunches",
+                    "calories_burned": 0.11
+                },
+                {
+                    "exercise": "Russian twists",
+                    "calories_burned": 0.13
+                },
+                {
+                    "exercise": "Woodchoppers",
+                    "calories_burned": 0.05
+                },
+                {
+                    "exercise": "Side bends",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Medicine ball slams",
+                    "calories_burned": 0.04
+                },
+                {
+                    "exercise": "Standing side crunches",
+                    "calories_burned": 1.25
+                },
+                {
+                    "exercise": "Cable rotations",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Pallof press",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Landmine rotations",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Cross-body mountain climbers",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Lower": [
+                {
+                    "exercise": "Hanging leg raises",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Plank",
+                    "calories_burned": 0.05
+                },
+                {
+                    "exercise": "Dead bugs",
+                    "calories_burned": 0.05
+                },
+                {
+                    "exercise": "Flutter kicks",
+                    "calories_burned": 0.05
+                },
+                {
+                    "exercise": "Scissor kicks",
+                    "calories_burned": 0.05
+                },
+                {
+                    "exercise": "L-sits",
+                    "calories_burned": 0.02
+                },
+                {
+                    "exercise": "Hollow body holds",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Hip thrusts",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Mountain climbers",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Ab roll-ins (with sliders)",
+                    "calories_burned": 0.05
+                }
+            ]
+        },
+        "Forearms": {
+            "Wrist Flexors": [
+                {
+                    "exercise": "Wrist curl",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Behind-the-back wrist curl",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Cable wrist curl",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Reverse barbell curl",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Dumbbell wrist curl",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Barbell wrist curl",
+                    "calories_burned": 1.75
+                },
+                {
+                    "exercise": "Zottman curl",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Rope wrist curl",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Single-arm cable wrist curl",
+                    "calories_burned": 1.4
+                },
+                {
+                    "exercise": "Plate wrist curl",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Wrist Extensors": [
+                {
+                    "exercise": "Wrist extension",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Reverse wrist curl",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Cable wrist extension",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Dumbbell wrist extension",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Barbell wrist extension",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Band wrist extension",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Seated wrist extension",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Standing wrist extension",
+                    "calories_burned": 0.04
+                },
+                {
+                    "exercise": "Single-arm wrist extension",
+                    "calories_burned": 0.05
+                },
+                {
+                    "exercise": "Plate wrist extension",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Grip Strength": [
+                {
+                    "exercise": "Plate pinch",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Towel pull-up",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Fat grip dumbbell curl",
+                    "calories_burned": 0.13
+                },
+                {
+                    "exercise": "Hammer curl",
+                    "calories_burned": 0.5
+                },
+                {
+                    "exercise": "Farmer's walks",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Dead hangs",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Captains of crush",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Gripper holds",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Rolling thunder deadlift",
+                    "calories_burned": 0.06
+                },
+                {
+                    "exercise": "Rope climbs",
+                    "calories_burned": 0.13
+                }
+            ]
+        }
+    }
+}

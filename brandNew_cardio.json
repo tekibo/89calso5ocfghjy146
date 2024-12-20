@@ -1,0 +1,1138 @@
+{
+  "Cardio": {
+    "High-Intensity Interval Training (HIIT)": [
+      {
+        "workout": "Sprints",
+        "calories_burned": 0.2
+      },
+      {
+        "workout": "Jumping jacks",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Burpees",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Mountain climbers",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "High knees",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Tuck jumps",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Battle ropes",
+        "calories_burned": 0.1
+      },
+      {
+        "workout": "Kettlebell swings",
+        "calories_burned": 1.75
+      },
+      {
+        "workout": "Box jumps",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Medicine ball slams",
+        "calories_burned": 0.04
+      },
+      {
+        "workout": "Agility ladder drills",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Push-ups",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Skater jumps",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Lateral bounds",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Broad jumps",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Tire flips",
+        "calories_burned": 0.1
+      },
+      {
+        "workout": "Jump squats",
+        "calories_burned": 0.88
+      },
+      {
+        "workout": "Resistance band sprints",
+        "calories_burned": 1.0
+      },
+      {
+        "workout": "Shadow boxing",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "High-knees with resistance",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Boxer shuffle",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Bear crawls",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Lunges",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Side shuffles",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "In-and-out jumps",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Plank jacks",
+        "calories_burned": 0.47
+      },
+      {
+        "workout": "Speed skaters",
+        "calories_burned": 0.08
+      },
+      {
+        "workout": "Jump rope",
+        "calories_burned": 0.15
+      },
+      {
+        "workout": "Rope climbs",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Boxing drills",
+        "calories_burned": 1.95
+      },
+      {
+        "workout": "Burpee box jumps",
+        "calories_burned": 0.32
+      }
+    ],
+    "Steady-State Cardio": [
+      {
+        "workout": "Running (outdoor)",
+        "calories_burned": 0.16
+      },
+      {
+        "workout": "Treadmill running",
+        "calories_burned": 0.16
+      },
+      {
+        "workout": "Outdoor cycling",
+        "calories_burned": 0.17
+      },
+      {
+        "workout": "Indoor cycling (spin class)",
+        "calories_burned": 0.17
+      },
+      {
+        "workout": "Swimming (laps or recreational)",
+        "calories_burned": 0.1
+      },
+      {
+        "workout": "Rowing (water or machine)",
+        "calories_burned": 0.08
+      },
+      {
+        "workout": "Speed walking",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Elliptical workouts",
+        "calories_burned": 2.5
+      },
+      {
+        "workout": "Jogging on the beach",
+        "calories_burned": 0.15
+      },
+      {
+        "workout": "Long-distance cycling",
+        "calories_burned": 0.17
+      },
+      {
+        "workout": "Hiking on flat trails",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Walking on a treadmill",
+        "calories_burned": 1.75
+      },
+      {
+        "workout": "Swimming laps",
+        "calories_burned": 0.14
+      },
+      {
+        "workout": "Power walking",
+        "calories_burned": 0.11
+      },
+      {
+        "workout": "Walking in the park",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Cycling on a stationary bike",
+        "calories_burned": 0.17
+      },
+      {
+        "workout": "Walking with a weighted vest",
+        "calories_burned": 1.75
+      },
+      {
+        "workout": "Stair climbing at a steady pace",
+        "calories_burned": 0.67
+      },
+      {
+        "workout": "Rowing at a steady pace",
+        "calories_burned": 2.4
+      },
+      {
+        "workout": "Walking in nature",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Nordic walking",
+        "calories_burned": 0.08
+      },
+      {
+        "workout": "Hiking with a backpack",
+        "calories_burned": 3.9
+      },
+      {
+        "workout": "Walking the dog",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Jogging in place",
+        "calories_burned": 0.15
+      },
+      {
+        "workout": "Walking on a soft surface",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Walking in a mall",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Walking with a friend",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Walking during breaks",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Walking to a friend's house",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Walking in the neighborhood",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Low-impact aerobics",
+        "calories_burned": 0.12
+      }
+    ],
+    "Machine-Based Cardio": [
+      {
+        "workout": "Treadmill",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Stationary bike",
+        "calories_burned": 0.12
+      },
+      {
+        "workout": "Stair climber",
+        "calories_burned": 0.15
+      },
+      {
+        "workout": "Rowing machine",
+        "calories_burned": 0.08
+      },
+      {
+        "workout": "SkiErg",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Arc trainer",
+        "calories_burned": 0.08
+      },
+      {
+        "workout": "Recumbent bike",
+        "calories_burned": 7.0
+      },
+      {
+        "workout": "Air bike",
+        "calories_burned": 0.11
+      },
+      {
+        "workout": "Jacob's Ladder",
+        "calories_burned": 0.15
+      },
+      {
+        "workout": "VersaClimber",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Battle ropes machine",
+        "calories_burned": 0.1
+      },
+      {
+        "workout": "Elliptical with incline",
+        "calories_burned": 0.08
+      },
+      {
+        "workout": "Cable machine cardio",
+        "calories_burned": 1.75
+      },
+      {
+        "workout": "Leg press machine",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Smith machine cardio",
+        "calories_burned": 3.0
+      },
+      {
+        "workout": "Kettlebell swings on a machine",
+        "calories_burned": 1.75
+      },
+      {
+        "workout": "Resistance band machine",
+        "calories_burned": 0.07
+      },
+      {
+        "workout": "Rowing machine sprints",
+        "calories_burned": 2.4
+      },
+      {
+        "workout": "Treadmill incline walking",
+        "calories_burned": 1.75
+      },
+      {
+        "workout": "Stair stepper",
+        "calories_burned": 0.15
+      },
+      {
+        "workout": "Cross-trainer",
+        "calories_burned": 0.08
+      },
+      {
+        "workout": "Vertical climber",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Cable crossover",
+        "calories_burned": 1.75
+      },
+      {
+        "workout": "Leg extension machine",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Leg curl machine",
+        "calories_burned": 1.75
+      },
+      {
+        "workout": "Smith machine squats",
+        "calories_burned": 3.0
+      },
+      {
+        "workout": "Seated row machine",
+        "calories_burned": 0.08
+      },
+      {
+        "workout": "Chest press machine",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Lat pulldown machine",
+        "calories_burned": 1.75
+      },
+      {
+        "workout": "Abdominal crunch machine",
+        "calories_burned": 0.47
+      },
+      {
+        "workout": "Pec deck machine",
+        "calories_burned": 0.06
+      }
+    ],
+    "Outdoor Cardio": [
+      {
+        "workout": "Hiking (trails or mountains)",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Outdoor cycling (road or trail)",
+        "calories_burned": 0.17
+      },
+      {
+        "workout": "Jump rope",
+        "calories_burned": 0.15
+      },
+      {
+        "workout": "Rollerblading",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Skateboarding",
+        "calories_burned": 0.08
+      },
+      {
+        "workout": "Trail running",
+        "calories_burned": 0.16
+      },
+      {
+        "workout": "Kayaking",
+        "calories_burned": 0.08
+      },
+      {
+        "workout": "Paddleboarding",
+        "calories_burned": 0.1
+      },
+      {
+        "workout": "Rock climbing",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Beach volleyball",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Outdoor boot camp",
+        "calories_burned": 0.12
+      },
+      {
+        "workout": "Parkour",
+        "calories_burned": 0.14
+      },
+      {
+        "workout": "Outdoor yoga",
+        "calories_burned": 0.05
+      },
+      {
+        "workout": "Frisbee",
+        "calories_burned": 0.05
+      },
+      {
+        "workout": "Outdoor circuit training",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Nature walks",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Outdoor dance classes",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Outdoor obstacle courses",
+        "calories_burned": 0.08
+      },
+      {
+        "workout": "Bouldering",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Geocaching",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Outdoor team sports",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Stand-up paddleboarding",
+        "calories_burned": 1.25
+      },
+      {
+        "workout": "Outdoor running",
+        "calories_burned": 0.16
+      },
+      {
+        "workout": "Outdoor swimming",
+        "calories_burned": 0.1
+      },
+      {
+        "workout": "Outdoor tai chi",
+        "calories_burned": 0.05
+      },
+      {
+        "workout": "Outdoor fitness classes",
+        "calories_burned": 0.12
+      },
+      {
+        "workout": "Outdoor hiking with friends",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Outdoor games",
+        "calories_burned": 0.03
+      },
+      {
+        "workout": "Outdoor picnics with activities",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Outdoor family sports",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Outdoor walking groups",
+        "calories_burned": 0.06
+      }
+    ],
+    "Dance and Aerobics": [
+      {
+        "workout": "Zumba",
+        "calories_burned": 0.08
+      },
+      {
+        "workout": "Step aerobics",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Hip-hop dance routines",
+        "calories_burned": 1.95
+      },
+      {
+        "workout": "Ballet-inspired cardio",
+        "calories_burned": 1.95
+      },
+      {
+        "workout": "Kickboxing cardio",
+        "calories_burned": 1.32
+      },
+      {
+        "workout": "Aerobic step circuits",
+        "calories_burned": 0.0
+      },
+      {
+        "workout": "Salsa dancing",
+        "calories_burned": 2.25
+      },
+      {
+        "workout": "Belly dancing",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Jazzercise",
+        "calories_burned": 0.1
+      },
+      {
+        "workout": "Dance cardio workouts",
+        "calories_burned": 1.95
+      },
+      {
+        "workout": "Bollywood dance",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Latin dance",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Contemporary dance",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Dance fitness classes",
+        "calories_burned": 1.95
+      },
+      {
+        "workout": "Cardio dance parties",
+        "calories_burned": 4.5
+      },
+      {
+        "workout": "Dance challenges",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Dance marathons",
+        "calories_burned": 1.95
+      },
+      {
+        "workout": "Swing dancing",
+        "calories_burned": 1.0
+      },
+      {
+        "workout": "Samba",
+        "calories_burned": 0.05
+      },
+      {
+        "workout": "Tap dance",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Folk dance",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Ballet classes",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Hip-hop classes",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Contemporary dance classes",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Dance workshops",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Dance competitions",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Dance fitness videos",
+        "calories_burned": 1.95
+      },
+      {
+        "workout": "Dance parties",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Dance classes for kids",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Dance classes for seniors",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Dance classes for couples",
+        "calories_burned": 0.13
+      }
+    ],
+    "Low-Impact Cardio": [
+      {
+        "workout": "Walking (outdoor or treadmill)",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Yoga flows (dynamic sequences)",
+        "calories_burned": 0.05
+      },
+      {
+        "workout": "Tai chi",
+        "calories_burned": 0.05
+      },
+      {
+        "workout": "Light indoor cycling",
+        "calories_burned": 0.17
+      },
+      {
+        "workout": "Water aerobics",
+        "calories_burned": 0.09
+      },
+      {
+        "workout": "Stretch-and-walk routines",
+        "calories_burned": 0.57
+      },
+      {
+        "workout": "Pilates",
+        "calories_burned": 0.05
+      },
+      {
+        "workout": "Chair aerobics",
+        "calories_burned": 0.12
+      },
+      {
+        "workout": "Gentle cycling",
+        "calories_burned": 0.17
+      },
+      {
+        "workout": "Aquatic therapy",
+        "calories_burned": 0.07
+      },
+      {
+        "workout": "Balance exercises",
+        "calories_burned": 0.07
+      },
+      {
+        "workout": "Walking in water",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Low-impact dance classes",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Walking with poles",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Gentle yoga",
+        "calories_burned": 0.05
+      },
+      {
+        "workout": "Tai chi in the park",
+        "calories_burned": 0.05
+      },
+      {
+        "workout": "Stretching routines",
+        "calories_burned": 0.04
+      },
+      {
+        "workout": "Low-impact step aerobics",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Walking on a soft surface",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Gentle hiking",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Rebounding on a mini-trampoline",
+        "calories_burned": 2.25
+      },
+      {
+        "workout": "Gentle aerobics",
+        "calories_burned": 0.12
+      },
+      {
+        "workout": "Gentle Pilates",
+        "calories_burned": 0.05
+      },
+      {
+        "workout": "Gentle yoga classes",
+        "calories_burned": 0.05
+      },
+      {
+        "workout": "Chair yoga",
+        "calories_burned": 0.05
+      },
+      {
+        "workout": "Gentle tai chi",
+        "calories_burned": 0.05
+      },
+      {
+        "workout": "Gentle stretching",
+        "calories_burned": 0.04
+      },
+      {
+        "workout": "Gentle walking groups",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Gentle fitness classes",
+        "calories_burned": 0.12
+      },
+      {
+        "workout": "Gentle outdoor activities",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Gentle swimming",
+        "calories_burned": 0.1
+      }
+    ],
+    "Sports-Based Cardio": [
+      {
+        "workout": "Basketball (shooting, games, or drills)",
+        "calories_burned": 3.25
+      },
+      {
+        "workout": "Soccer (recreational or competitive)",
+        "calories_burned": 0.17
+      },
+      {
+        "workout": "Tennis (singles or doubles)",
+        "calories_burned": 0.12
+      },
+      {
+        "workout": "Badminton",
+        "calories_burned": 0.09
+      },
+      {
+        "workout": "Volleyball",
+        "calories_burned": 0.07
+      },
+      {
+        "workout": "Table tennis",
+        "calories_burned": 0.07
+      },
+      {
+        "workout": "Cricket (fielding or batting drills)",
+        "calories_burned": 2.4
+      },
+      {
+        "workout": "Rugby",
+        "calories_burned": 0.1
+      },
+      {
+        "workout": "Lacrosse",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Field hockey",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Martial arts (karate, judo, or taekwondo)",
+        "calories_burned": 2.65
+      },
+      {
+        "workout": "Boxing (sparring or bag work)",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Ultimate frisbee",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Softball",
+        "calories_burned": 0.07
+      },
+      {
+        "workout": "Baseball",
+        "calories_burned": 0.08
+      },
+      {
+        "workout": "Handball",
+        "calories_burned": 0.2
+      },
+      {
+        "workout": "Kickball",
+        "calories_burned": 0.12
+      },
+      {
+        "workout": "Dodgeball",
+        "calories_burned": 0.1
+      },
+      {
+        "workout": "Floor hockey",
+        "calories_burned": 0.67
+      },
+      {
+        "workout": "Futsal",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Rugby sevens",
+        "calories_burned": 0.1
+      },
+      {
+        "workout": "Beach soccer",
+        "calories_burned": 0.17
+      },
+      {
+        "workout": "Street hockey",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Indoor soccer",
+        "calories_burned": 0.17
+      },
+      {
+        "workout": "Indoor volleyball",
+        "calories_burned": 0.1
+      },
+      {
+        "workout": "Indoor basketball",
+        "calories_burned": 0.11
+      },
+      {
+        "workout": "Indoor tennis",
+        "calories_burned": 0.12
+      },
+      {
+        "workout": "Indoor badminton",
+        "calories_burned": 0.09
+      },
+      {
+        "workout": "Indoor cricket",
+        "calories_burned": 0.08
+      },
+      {
+        "workout": "Indoor handball",
+        "calories_burned": 0.2
+      },
+      {
+        "workout": "Squash",
+        "calories_burned": 0.12
+      }
+    ],
+    "General Day-to-Day Activities": [
+      {
+        "workout": "Brisk walking to work or errands",
+        "calories_burned": 1.75
+      },
+      {
+        "workout": "Climbing stairs (indoors or outdoors)",
+        "calories_burned": 3.75
+      },
+      {
+        "workout": "Gardening (digging, planting, or weeding)",
+        "calories_burned": 1.15
+      },
+      {
+        "workout": "Carrying groceries (multiple trips)",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Cleaning the house (vacuuming, mopping)",
+        "calories_burned": 0.04
+      },
+      {
+        "workout": "Playing with kids (running or chasing games)",
+        "calories_burned": 1.4
+      },
+      {
+        "workout": "Walking the dog",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Cycling to commute",
+        "calories_burned": 0.17
+      },
+      {
+        "workout": "Mowing the lawn",
+        "calories_burned": 0.09
+      },
+      {
+        "workout": "Washing the car",
+        "calories_burned": 0.04
+      },
+      {
+        "workout": "Walking to public transport",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Doing yard work",
+        "calories_burned": 0.07
+      },
+      {
+        "workout": "Playing catch",
+        "calories_burned": 2.9
+      },
+      {
+        "workout": "Walking the dog in the park",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Taking the stairs instead of the elevator",
+        "calories_burned": 0.67
+      },
+      {
+        "workout": "Walking during breaks",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Playing outdoor games",
+        "calories_burned": 2.9
+      },
+      {
+        "workout": "Walking to a friend's house",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Participating in community clean-ups",
+        "calories_burned": 0.04
+      },
+      {
+        "workout": "Walking in the neighborhood",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Walking with family",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Walking with friends",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Walking with kids",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Walking with pets",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Walking in the mall",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Walking in the community",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Walking in the city",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Walking in nature",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Walking to the store",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Walking to school",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Dancing while doing household chores",
+        "calories_burned": 1.95
+      }
+    ],
+    "Adventure and Recreational Cardio": [
+      {
+        "workout": "Surfing",
+        "calories_burned": 0.05
+      },
+      {
+        "workout": "Snowboarding",
+        "calories_burned": 0.07
+      },
+      {
+        "workout": "Skiing (cross-country or downhill)",
+        "calories_burned": 0.12
+      },
+      {
+        "workout": "Scuba diving",
+        "calories_burned": 0.12
+      },
+      {
+        "workout": "Zip-lining",
+        "calories_burned": 0.07
+      },
+      {
+        "workout": "Horseback riding",
+        "calories_burned": 0.09
+      },
+      {
+        "workout": "Canoeing",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Paragliding",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Rock climbing",
+        "calories_burned": 0.13
+      },
+      {
+        "workout": "Bungee jumping",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Skydiving",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "White-water rafting",
+        "calories_burned": 0.08
+      },
+      {
+        "workout": "ATV riding",
+        "calories_burned": 0.09
+      },
+      {
+        "workout": "Caving",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Mountain biking",
+        "calories_burned": 0.14
+      },
+      {
+        "workout": "Windsurfing",
+        "calories_burned": 0.18
+      },
+      {
+        "workout": "Kite surfing",
+        "calories_burned": 0.18
+      },
+      {
+        "workout": "Hang gliding",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Ice skating",
+        "calories_burned": 0.09
+      },
+      {
+        "workout": "Snowshoeing",
+        "calories_burned": 0.09
+      },
+      {
+        "workout": "Stand-up paddleboarding",
+        "calories_burned": 1.25
+      },
+      {
+        "workout": "Snorkeling",
+        "calories_burned": 0.08
+      },
+      {
+        "workout": "Jet skiing",
+        "calories_burned": 0.0
+      },
+      {
+        "workout": "Parasailing",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Rafting",
+        "calories_burned": 0.08
+      },
+      {
+        "workout": "Cliff diving",
+        "calories_burned": 0.05
+      },
+      {
+        "workout": "Bungee trampoline",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Caving expeditions",
+        "calories_burned": 0.06
+      },
+      {
+        "workout": "Adventure racing",
+        "calories_burned": 0.01
+      },
+      {
+        "workout": "Outdoor adventure camps",
+        "calories_burned": 0.01
+      },
+      {
+        "workout": "Wakeboarding",
+        "calories_burned": 0.01
+      }
+    ]
+  }
+}

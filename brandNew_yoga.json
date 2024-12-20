@@ -1,0 +1,384 @@
+{
+    "Yoga": {
+        "Styles of Yoga": {
+            "Hatha Yoga": [
+                {
+                    "pose": "Sun Salutations (Surya Namaskar)",
+                    "calories_burned": 0.05
+                },
+                {
+                    "pose": "Standing Forward Bend (Uttanasana)",
+                    "calories_burned": 0.04
+                },
+                {
+                    "pose": "Triangle Pose (Trikonasana)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Tree Pose (Vrikshasana)",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Vinyasa Yoga": [
+                {
+                    "pose": "Downward Dog (Adho Mukha Svanasana)",
+                    "calories_burned": 0.05
+                },
+                {
+                    "pose": "Chaturanga Dandasana",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Warrior II (Virabhadrasana II)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Cobra Pose (Bhujangasana)",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Ashtanga Yoga": [
+                {
+                    "pose": "Primary Series (Yoga Chikitsa)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Seated Forward Bend (Paschimottanasana)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Half-Bound Lotus Pose (Ardha Baddha Padmottanasana)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Boat Pose (Navasana)",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Iyengar Yoga": [
+                {
+                    "pose": "Extended Side Angle Pose (Utthita Parsvakonasana)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Bridge Pose (Setu Bandhasana)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Reclining Bound Angle Pose (Supta Baddha Konasana)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Headstand (Sirsasana)",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Restorative Yoga": [
+                {
+                    "pose": "Child's Pose (Balasana)",
+                    "calories_burned": 0.05
+                },
+                {
+                    "pose": "Legs-Up-The-Wall Pose (Viparita Karani)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Corpse Pose (Savasana)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Supported Bridge Pose (Setu Bandha Sarvangasana)",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Yin Yoga": [
+                {
+                    "pose": "Dragon Pose",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Butterfly Pose",
+                    "calories_burned": 0.23
+                },
+                {
+                    "pose": "Caterpillar Pose",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Reclining Twist (Supta Matsyendrasana)",
+                    "calories_burned": 0.13
+                }
+            ],
+            "Power Yoga": [
+                {
+                    "pose": "Chair Pose (Utkatasana)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Plank Pose (Phalakasana)",
+                    "calories_burned": 0.05
+                },
+                {
+                    "pose": "Side Plank Pose (Vasisthasana)",
+                    "calories_burned": 0.05
+                },
+                {
+                    "pose": "Crow Pose (Bakasana)",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Bikram/Hot Yoga": [
+                {
+                    "pose": "Standing Bow Pose (Dandayamana Dhanurasana)",
+                    "calories_burned": 0.04
+                },
+                {
+                    "pose": "Camel Pose (Ustrasana)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Awkward Pose (Utkatasana)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Half Moon Pose (Ardha Chandrasana)",
+                    "calories_burned": 0.06
+                }
+            ]
+        },
+        "Yoga for Specific Goals": {
+            "Flexibility": [
+                {
+                    "pose": "Seated Forward Bend (Paschimottanasana)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Pigeon Pose (Eka Pada Rajakapotasana)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Wide-Legged Forward Fold (Prasarita Padottanasana)",
+                    "calories_burned": 0
+                },
+                {
+                    "pose": "Reclining Hand-to-Big-Toe Pose (Supta Padangusthasana)",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Strength": [
+                {
+                    "pose": "Plank Pose (Phalakasana)",
+                    "calories_burned": 0.05
+                },
+                {
+                    "pose": "Warrior III (Virabhadrasana III)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Four-Limbed Staff Pose (Chaturanga Dandasana)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Dolphin Pose",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Balance": [
+                {
+                    "pose": "Tree Pose (Vrikshasana)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Eagle Pose (Garudasana)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Half Moon Pose (Ardha Chandrasana)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Dancer Pose (Natarajasana)",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Stress Relief": [
+                {
+                    "pose": "Child's Pose (Balasana)",
+                    "calories_burned": 0.05
+                },
+                {
+                    "pose": "Cat-Cow Pose (Marjaryasana-Bitilasana)",
+                    "calories_burned": 0.05
+                },
+                {
+                    "pose": "Legs-Up-The-Wall Pose (Viparita Karani)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Corpse Pose (Savasana)",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Core Strength": [
+                {
+                    "pose": "Boat Pose (Navasana)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Side Plank Pose (Vasisthasana)",
+                    "calories_burned": 0.05
+                },
+                {
+                    "pose": "Crow Pose (Bakasana)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Bridge Pose (Setu Bandhasana)",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Back Pain Relief": [
+                {
+                    "pose": "Sphinx Pose",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Cat-Cow Pose (Marjaryasana-Bitilasana)",
+                    "calories_burned": 0.05
+                },
+                {
+                    "pose": "Cobra Pose (Bhujangasana)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Child's Pose (Balasana)",
+                    "calories_burned": 0.05
+                }
+            ]
+        },
+        "Pranayama (Breathing Exercises)": {
+            "Calming Breathwork": [
+                {
+                    "pose": "Alternate Nostril Breathing (Nadi Shodhana)",
+                    "calories_burned": 0.02
+                },
+                {
+                    "pose": "Ocean Breath (Ujjayi Pranayama)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Cooling Breath (Sheetali Pranayama)",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Energizing Breathwork": [
+                {
+                    "pose": "Bellows Breath (Bhastrika Pranayama)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Breath of Fire (Kapalabhati Pranayama)",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Meditative Breathwork": [
+                {
+                    "pose": "Equal Breathing (Sama Vritti)",
+                    "calories_burned": 0.02
+                },
+                {
+                    "pose": "Three-Part Breath (Dirga Pranayama)",
+                    "calories_burned": 0.06
+                }
+            ]
+        },
+        "Meditation and Mindfulness": {
+            "Guided Meditation": [
+                {
+                    "pose": "Body Scan Meditation",
+                    "calories_burned": 0.02
+                },
+                {
+                    "pose": "Visualization Meditation",
+                    "calories_burned": 0.02
+                }
+            ],
+            "Silent Meditation": [
+                {
+                    "pose": "Mindfulness of Breathing",
+                    "calories_burned": 0.02
+                },
+                {
+                    "pose": "Mantra Meditation",
+                    "calories_burned": 0.02
+                }
+            ],
+            "Dynamic Meditation": [
+                {
+                    "pose": "Walking Meditation",
+                    "calories_burned": 1.75
+                },
+                {
+                    "pose": "Movement Meditation",
+                    "calories_burned": 0.02
+                }
+            ]
+        },
+        "Yoga Sequences": {
+            "Morning Yoga": [
+                {
+                    "pose": "Sun Salutations (Surya Namaskar)",
+                    "calories_burned": 0.05
+                },
+                {
+                    "pose": "Cat-Cow Pose (Marjaryasana-Bitilasana)",
+                    "calories_burned": 0.05
+                },
+                {
+                    "pose": "Downward Dog (Adho Mukha Svanasana)",
+                    "calories_burned": 0.05
+                },
+                {
+                    "pose": "Low Lunge (Anjaneyasana)",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Evening Yoga": [
+                {
+                    "pose": "Child's Pose (Balasana)",
+                    "calories_burned": 0.05
+                },
+                {
+                    "pose": "Reclining Twist (Supta Matsyendrasana)",
+                    "calories_burned": 0.13
+                },
+                {
+                    "pose": "Legs-Up-The-Wall Pose (Viparita Karani)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Corpse Pose (Savasana)",
+                    "calories_burned": 0.06
+                }
+            ],
+            "Yoga for Athletes": [
+                {
+                    "pose": "Runner's Lunge (Utthita Ashwa Sanchalanasana)",
+                    "calories_burned": 0.63
+                },
+                {
+                    "pose": "Half Splits (Ardha Hanumanasana)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Pigeon Pose (Eka Pada Rajakapotasana)",
+                    "calories_burned": 0.06
+                },
+                {
+                    "pose": "Wide-Legged Forward Fold (Prasarita Padottanasana)",
+                    "calories_burned": 0.01
+                }
+            ]
+        }
+    }
+}
