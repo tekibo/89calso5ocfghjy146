@@ -1,0 +1,4052 @@
+{
+    "breakfast": [
+        {
+            "recipe": {
+                "name": "Protein-Packed Vegetable Omelette",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Eggs",
+                        "quantity": "2 large",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Spinach",
+                        "quantity": "1 cup",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Tomatoes",
+                        "quantity": "1 small",
+                        "weight": "50g"
+                    },
+                    {
+                        "name": "Onions",
+                        "quantity": "1/4 medium",
+                        "weight": "20g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Beat the eggs in a bowl and season with salt and black pepper.",
+                    "2. Heat olive oil in a non-stick pan over medium heat.",
+                    "3. Sauté onions, spinach, and tomatoes until soft.",
+                    "4. Pour the beaten eggs into the pan, spreading evenly over the vegetables.",
+                    "5. Cook until the omelette sets, then flip and cook the other side for 1-2 minutes.",
+                    "6. Serve hot and enjoy!"
+                ],
+                "cooking_time_minutes": 10
+            },
+            "nutrition_per_100g": {
+                "calories": 120,
+                "protein_g": 7,
+                "carbohydrates_g": 3,
+                "fats_g": 8,
+                "fiber_g": 1
+            },
+            "image_link": ""
+        },
+        {
+            "recipe": {
+                "name": "Masala Poha",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Flattened rice (Poha)",
+                        "quantity": "1/2 cup",
+                        "weight": "50g"
+                    },
+                    {
+                        "name": "Onion (chopped)",
+                        "quantity": "1 small",
+                        "weight": "50g"
+                    },
+                    {
+                        "name": "Green peas",
+                        "quantity": "2 tbsp",
+                        "weight": "20g"
+                    },
+                    {
+                        "name": "Mustard seeds",
+                        "quantity": "1/2 tsp",
+                        "weight": "1g"
+                    },
+                    {
+                        "name": "Turmeric powder",
+                        "quantity": "1/4 tsp",
+                        "weight": "1g"
+                    },
+                    {
+                        "name": "Green chili (slit)",
+                        "quantity": "1",
+                        "weight": "10g"
+                    },
+                    {
+                        "name": "Coriander leaves (chopped)",
+                        "quantity": "1 tbsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Lemon juice",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    }
+                ],
+                "instructions": [
+                    "1. Heat oil in a pan and add mustard seeds, let them splutter.",
+                    "2. Add chopped onions and green chili, sauté for 2 minutes.",
+                    "3. Add turmeric powder and green peas, cook for 3-4 minutes.",
+                    "4. Add washed poha, salt, and mix well.",
+                    "5. Cover and cook for 5 minutes, then add lemon juice and chopped coriander leaves.",
+                    "6. Serve hot."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 180,
+                "protein_g": 3,
+                "carbohydrates_g": 30,
+                "fats_g": 6,
+                "fiber_g": 4
+            },
+            "image_link": "https://example.com/masala-poha.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Avocado Toast",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Whole grain bread",
+                        "quantity": "1 slice",
+                        "weight": "40g"
+                    },
+                    {
+                        "name": "Avocado",
+                        "quantity": "1/2 medium",
+                        "weight": "75g"
+                    },
+                    {
+                        "name": "Lemon juice",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Chili flakes",
+                        "quantity": "optional",
+                        "weight": "0.5g"
+                    }
+                ],
+                "instructions": [
+                    "1. Toast the bread slice until golden brown.",
+                    "2. Mash the avocado in a bowl and mix with lemon juice, salt, and pepper.",
+                    "3. Spread the avocado mixture over the toast.",
+                    "4. Sprinkle chili flakes on top if desired and serve."
+                ],
+                "cooking_time_minutes": 5
+            },
+            "nutrition_per_100g": {
+                "calories": 160,
+                "protein_g": 4,
+                "carbohydrates_g": 18,
+                "fats_g": 8,
+                "fiber_g": 5
+            },
+            "image_link": ""
+        },
+        {
+            "recipe": {
+                "name": "Aloo Paratha (Indian-style flatbread)",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Whole wheat flour",
+                        "quantity": "1/2 cup",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Potato (boiled and mashed)",
+                        "quantity": "1 medium",
+                        "weight": "120g"
+                    },
+                    {
+                        "name": "Green chili (chopped)",
+                        "quantity": "1",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Cumin seeds",
+                        "quantity": "1/2 tsp",
+                        "weight": "1g"
+                    },
+                    {
+                        "name": "Coriander powder",
+                        "quantity": "1/2 tsp",
+                        "weight": "1g"
+                    },
+                    {
+                        "name": "Ghee or oil",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Mix flour with water to make a dough.",
+                    "2. Roll out the dough into a small circle.",
+                    "3. In a separate bowl, mix mashed potato with green chili, cumin, coriander powder, and salt.",
+                    "4. Stuff the dough with the potato mixture and seal it.",
+                    "5. Roll it out into a flat circle again and cook on a hot griddle with ghee or oil until golden brown."
+                ],
+                "cooking_time_minutes": 20
+            },
+            "nutrition_per_100g": {
+                "calories": 220,
+                "protein_g": 5,
+                "carbohydrates_g": 40,
+                "fats_g": 6,
+                "fiber_g": 4
+            },
+            "image_link": "https://example.com/aloo-paratha.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Greek Yogurt Parfait",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Greek yogurt (low-fat, plain)",
+                        "quantity": "1 cup",
+                        "weight": "170g"
+                    },
+                    {
+                        "name": "Granola",
+                        "quantity": "1/4 cup",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Mixed berries (strawberries, blueberries, raspberries)",
+                        "quantity": "1/2 cup",
+                        "weight": "75g"
+                    },
+                    {
+                        "name": "Honey",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    }
+                ],
+                "instructions": [
+                    "1. Layer Greek yogurt in a glass or bowl.",
+                    "2. Add a layer of granola on top of the yogurt.",
+                    "3. Add a layer of mixed berries.",
+                    "4. Drizzle honey over the top and repeat layers if desired.",
+                    "5. Serve immediately and enjoy!"
+                ],
+                "cooking_time_minutes": 5
+            },
+            "nutrition_per_100g": {
+                "calories": 120,
+                "protein_g": 5,
+                "carbohydrates_g": 15,
+                "fats_g": 3,
+                "fiber_g": 2
+            },
+            "image_link": ""
+        },
+        {
+            "recipe": {
+                "name": "Sweet Potato Breakfast Hash",
+                "servings": 2,
+                "ingredients": [
+                    {
+                        "name": "Sweet potato",
+                        "quantity": "1 medium",
+                        "weight": "130g"
+                    },
+                    {
+                        "name": "Red bell pepper",
+                        "quantity": "1/2 medium",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Onion",
+                        "quantity": "1/4 medium",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Eggs",
+                        "quantity": "2 large",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Paprika",
+                        "quantity": "1/4 tsp",
+                        "weight": "0.5g"
+                    }
+                ],
+                "instructions": [
+                    "1. Peel and dice the sweet potato into small cubes.",
+                    "2. Heat olive oil in a skillet over medium heat.",
+                    "3. Add diced sweet potato and sauté for 5 minutes.",
+                    "4. Add diced onion and bell pepper to the skillet and cook until tender.",
+                    "5. Season with salt, pepper, and paprika.",
+                    "6. Push the hash to one side of the skillet and crack the eggs on the other side.",
+                    "7. Cover and cook until the eggs are done to your liking.",
+                    "8. Serve immediately and enjoy!"
+                ],
+                "cooking_time_minutes": 25
+            },
+            "nutrition_per_100g": {
+                "calories": 130,
+                "protein_g": 4,
+                "carbohydrates_g": 15,
+                "fats_g": 6,
+                "fiber_g": 2.5
+            },
+            "image_link": ""
+        },
+        {
+            "recipe": {
+                "name": "Chickpea Pancakes (Chinese-style)",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Chickpea flour (Besan)",
+                        "quantity": "1/2 cup",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Green onions (chopped)",
+                        "quantity": "2 tbsp",
+                        "weight": "10g"
+                    },
+                    {
+                        "name": "Coriander leaves (chopped)",
+                        "quantity": "1 tbsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Soy sauce",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Rice flour",
+                        "quantity": "1 tbsp",
+                        "weight": "8g"
+                    },
+                    {
+                        "name": "Water",
+                        "quantity": "1/4 cup",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Sesame seeds",
+                        "quantity": "1 tsp",
+                        "weight": "3g"
+                    }
+                ],
+                "instructions": [
+                    "1. Mix chickpea flour, rice flour, soy sauce, water, and sesame seeds to make a batter.",
+                    "2. Add chopped green onions and coriander leaves.",
+                    "3. Heat oil in a pan, pour batter to form a pancake.",
+                    "4. Cook on both sides until golden brown.",
+                    "5. Serve hot with soy sauce."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 250,
+                "protein_g": 8,
+                "carbohydrates_g": 35,
+                "fats_g": 8,
+                "fiber_g": 4
+            },
+            "image_link": "https://example.com/chickpea-pancakes.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Peanut Butter Banana Toast",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Whole grain bread",
+                        "quantity": "1 slice",
+                        "weight": "40g"
+                    },
+                    {
+                        "name": "Peanut butter (natural, unsweetened)",
+                        "quantity": "1 tbsp",
+                        "weight": "16g"
+                    },
+                    {
+                        "name": "Banana",
+                        "quantity": "1/2 medium",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Honey",
+                        "quantity": "optional, 1 tsp",
+                        "weight": "5g"
+                    }
+                ],
+                "instructions": [
+                    "1. Toast the bread until golden brown.",
+                    "2. Spread peanut butter evenly over the toast.",
+                    "3. Slice the banana and arrange on top of the peanut butter.",
+                    "4. Drizzle with honey if desired and serve."
+                ],
+                "cooking_time_minutes": 5
+            },
+            "nutrition_per_100g": {
+                "calories": 180,
+                "protein_g": 5,
+                "carbohydrates_g": 20,
+                "fats_g": 8,
+                "fiber_g": 3
+            },
+            "image_link": ""
+        },
+        {
+            "recipe": {
+                "name": "Savory Cottage Cheese Bowl",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Cottage cheese (low-fat)",
+                        "quantity": "1/2 cup",
+                        "weight": "110g"
+                    },
+                    {
+                        "name": "Cherry tomatoes",
+                        "quantity": "1/2 cup",
+                        "weight": "75g"
+                    },
+                    {
+                        "name": "Cucumber",
+                        "quantity": "1/4 medium",
+                        "weight": "50g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Place cottage cheese in a bowl.",
+                    "2. Dice cherry tomatoes and cucumber, then add them on top of the cottage cheese.",
+                    "3. Drizzle with olive oil and season with salt and pepper.",
+                    "4. Mix lightly and serve immediately."
+                ],
+                "cooking_time_minutes": 5
+            },
+            "nutrition_per_100g": {
+                "calories": 90,
+                "protein_g": 5,
+                "carbohydrates_g": 4,
+                "fats_g": 4,
+                "fiber_g": 0.5
+            },
+            "image_link": ""
+        },
+        {
+            "recipe": {
+                "name": "Egg and Avocado Wrap",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Whole wheat tortilla",
+                        "quantity": "1 small",
+                        "weight": "50g"
+                    },
+                    {
+                        "name": "Egg",
+                        "quantity": "1 large",
+                        "weight": "50g"
+                    },
+                    {
+                        "name": "Avocado",
+                        "quantity": "1/4 medium",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Spinach",
+                        "quantity": "1/4 cup",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    }
+                ],
+                "instructions": [
+                    "1. Heat olive oil in a skillet and scramble the egg with salt and pepper.",
+                    "2. Warm the tortilla in a dry skillet or microwave.",
+                    "3. Mash the avocado and spread it over the tortilla.",
+                    "4. Add spinach and scrambled egg on top of the avocado.",
+                    "5. Roll the tortilla tightly into a wrap and serve."
+                ],
+                "cooking_time_minutes": 10
+            },
+            "nutrition_per_100g": {
+                "calories": 150,
+                "protein_g": 6,
+                "carbohydrates_g": 13,
+                "fats_g": 8,
+                "fiber_g": 2
+            },
+            "image_link": ""
+        },
+        {
+            "recipe": {
+                "name": "Tamago Sushi (Japanese-style egg sushi)",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Egg",
+                        "quantity": "2 large",
+                        "weight": "120g"
+                    },
+                    {
+                        "name": "Sushi rice",
+                        "quantity": "1/2 cup",
+                        "weight": "90g"
+                    },
+                    {
+                        "name": "Rice vinegar",
+                        "quantity": "1 tbsp",
+                        "weight": "10g"
+                    },
+                    {
+                        "name": "Sugar",
+                        "quantity": "1/2 tsp",
+                        "weight": "2g"
+                    },
+                    {
+                        "name": "Soy sauce",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Nori (seaweed sheet)",
+                        "quantity": "1 sheet",
+                        "weight": "2g"
+                    }
+                ],
+                "instructions": [
+                    "1. Cook sushi rice according to package instructions and mix with rice vinegar and sugar.",
+                    "2. Beat eggs and cook into a thin omelet. Cut into strips.",
+                    "3. Place a small ball of rice on a nori sheet, then top with a strip of egg.",
+                    "4. Roll and serve with a side of soy sauce."
+                ],
+                "cooking_time_minutes": 20
+            },
+            "nutrition_per_100g": {
+                "calories": 160,
+                "protein_g": 8,
+                "carbohydrates_g": 22,
+                "fats_g": 5,
+                "fiber_g": 1
+            },
+            "image_link": "https://example.com/tamago-sushi.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Miso Soup with Tofu",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Miso paste",
+                        "quantity": "2 tbsp",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Silken tofu (cubed)",
+                        "quantity": "1/4 block",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Seaweed (dried)",
+                        "quantity": "1 tbsp",
+                        "weight": "3g"
+                    },
+                    {
+                        "name": "Green onions (chopped)",
+                        "quantity": "1 tbsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Water",
+                        "quantity": "1 cup",
+                        "weight": "240g"
+                    }
+                ],
+                "instructions": [
+                    "1. Boil water and dissolve miso paste in it.",
+                    "2. Add cubed tofu and simmer for 5 minutes.",
+                    "3. Add seaweed and cook for another 2 minutes.",
+                    "4. Garnish with chopped green onions and serve hot."
+                ],
+                "cooking_time_minutes": 10
+            },
+            "nutrition_per_100g": {
+                "calories": 70,
+                "protein_g": 5,
+                "carbohydrates_g": 6,
+                "fats_g": 3,
+                "fiber_g": 2
+            },
+            "image_link": "https://example.com/miso-soup.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Quinoa Breakfast Bowl",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Cooked quinoa",
+                        "quantity": "1/2 cup",
+                        "weight": "92g"
+                    },
+                    {
+                        "name": "Almond milk (unsweetened)",
+                        "quantity": "1/4 cup",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Banana",
+                        "quantity": "1/2 medium",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Chopped nuts (e.g., almonds, walnuts)",
+                        "quantity": "1 tbsp",
+                        "weight": "10g"
+                    },
+                    {
+                        "name": "Chia seeds",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Honey",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Cinnamon",
+                        "quantity": "1/4 tsp",
+                        "weight": "1g"
+                    }
+                ],
+                "instructions": [
+                    "1. Warm the cooked quinoa with almond milk in a small saucepan over medium heat.",
+                    "2. Slice the banana and set aside.",
+                    "3. Transfer the warmed quinoa to a bowl.",
+                    "4. Top with banana slices, chopped nuts, chia seeds, and a drizzle of honey.",
+                    "5. Sprinkle cinnamon on top and serve warm."
+                ],
+                "cooking_time_minutes": 10
+            },
+            "nutrition_per_100g": {
+                "calories": 140,
+                "protein_g": 4,
+                "carbohydrates_g": 22,
+                "fats_g": 4,
+                "fiber_g": 3
+            },
+            "image_link": ""
+        },
+        {
+            "recipe": {
+                "name": "Avocado and Hummus Toast",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Whole grain bread",
+                        "quantity": "2 slices",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Avocado",
+                        "quantity": "1/2 medium",
+                        "weight": "80g"
+                    },
+                    {
+                        "name": "Hummus",
+                        "quantity": "2 tbsp",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Lemon juice",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Paprika",
+                        "quantity": "1/4 tsp",
+                        "weight": "1g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    }
+                ],
+                "instructions": [
+                    "1. Toast the bread slices.",
+                    "2. Mash the avocado with lemon juice, salt, and pepper.",
+                    "3. Spread hummus on the toasted bread.",
+                    "4. Top with mashed avocado and sprinkle with paprika.",
+                    "5. Drizzle with olive oil and serve."
+                ],
+                "cooking_time_minutes": 5
+            },
+            "nutrition_per_100g": {
+                "calories": 210,
+                "protein_g": 5,
+                "carbohydrates_g": 20,
+                "fats_g": 12,
+                "fiber_g": 6
+            },
+            "image_link": "https://example.com/avocado-hummus-toast.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Congee with Pickled Ginger (Chinese-style rice porridge)",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Jasmine rice",
+                        "quantity": "1/4 cup",
+                        "weight": "40g"
+                    },
+                    {
+                        "name": "Water",
+                        "quantity": "2 cups",
+                        "weight": "480g"
+                    },
+                    {
+                        "name": "Pickled ginger",
+                        "quantity": "1 tbsp",
+                        "weight": "10g"
+                    },
+                    {
+                        "name": "Sesame oil",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    }
+                ],
+                "instructions": [
+                    "1. Rinse rice and cook with water until soft and porridge-like.",
+                    "2. Stir frequently and cook for about 20 minutes.",
+                    "3. Drizzle with sesame oil and top with pickled ginger.",
+                    "4. Serve hot for a light breakfast."
+                ],
+                "cooking_time_minutes": 25
+            },
+            "nutrition_per_100g": {
+                "calories": 90,
+                "protein_g": 2,
+                "carbohydrates_g": 20,
+                "fats_g": 2,
+                "fiber_g": 1
+            },
+            "image_link": "https://example.com/congee.jpg"
+        }
+    ],
+    "lunch": [
+        {
+            "recipe": {
+                "name": "Grilled Chicken Salad",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Grilled chicken breast",
+                        "quantity": "100g",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Mixed greens",
+                        "quantity": "2 cups",
+                        "weight": "80g"
+                    },
+                    {
+                        "name": "Cherry tomatoes",
+                        "quantity": "1/2 cup",
+                        "weight": "75g"
+                    },
+                    {
+                        "name": "Cucumber",
+                        "quantity": "1/4 medium",
+                        "weight": "50g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Lemon juice",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Slice the grilled chicken breast into strips.",
+                    "2. Combine mixed greens, cherry tomatoes, and cucumber in a large bowl.",
+                    "3. Add the grilled chicken on top of the vegetables.",
+                    "4. Drizzle olive oil and lemon juice over the salad.",
+                    "5. Season with salt and pepper, toss lightly, and serve."
+                ],
+                "cooking_time_minutes": 10
+            },
+            "nutrition_per_100g": {
+                "calories": 120,
+                "protein_g": 12,
+                "carbohydrates_g": 3,
+                "fats_g": 6,
+                "fiber_g": 1.5
+            },
+            "image_link": "https://example.com/grilled-chicken-salad.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Veggie Stir-Fry with Tofu",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Firm tofu",
+                        "quantity": "100g",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Broccoli",
+                        "quantity": "1 cup",
+                        "weight": "90g"
+                    },
+                    {
+                        "name": "Carrot",
+                        "quantity": "1 small",
+                        "weight": "50g"
+                    },
+                    {
+                        "name": "Bell pepper",
+                        "quantity": "1/2 medium",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Soy sauce",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Sesame oil",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Garlic",
+                        "quantity": "2 cloves",
+                        "weight": "6g"
+                    },
+                    {
+                        "name": "Ginger",
+                        "quantity": "1 tsp grated",
+                        "weight": "5g"
+                    }
+                ],
+                "instructions": [
+                    "1. Cube the tofu and sauté in a non-stick skillet with sesame oil until golden.",
+                    "2. Add minced garlic and ginger to the skillet and stir-fry for 1 minute.",
+                    "3. Add broccoli, carrot, and bell pepper, stir-frying for 5 minutes.",
+                    "4. Drizzle with soy sauce, toss well, and cook for 2 more minutes.",
+                    "5. Serve hot as is or over rice."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 90,
+                "protein_g": 7,
+                "carbohydrates_g": 5,
+                "fats_g": 4,
+                "fiber_g": 2
+            },
+            "image_link": "https://example.com/veggie-stir-fry-tofu.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Turkey and Avocado Wrap",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Whole wheat tortilla",
+                        "quantity": "1 medium",
+                        "weight": "50g"
+                    },
+                    {
+                        "name": "Turkey slices",
+                        "quantity": "3 slices",
+                        "weight": "85g"
+                    },
+                    {
+                        "name": "Avocado",
+                        "quantity": "1/4 medium",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Spinach",
+                        "quantity": "1/2 cup",
+                        "weight": "20g"
+                    },
+                    {
+                        "name": "Mustard",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Spread mustard on the tortilla.",
+                    "2. Layer turkey slices, avocado slices, and spinach.",
+                    "3. Season with salt and pepper.",
+                    "4. Roll the tortilla tightly into a wrap.",
+                    "5. Slice in half and serve."
+                ],
+                "cooking_time_minutes": 10
+            },
+            "nutrition_per_100g": {
+                "calories": 150,
+                "protein_g": 10,
+                "carbohydrates_g": 12,
+                "fats_g": 6,
+                "fiber_g": 2
+            },
+            "image_link": "https://example.com/turkey-avocado-wrap.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Lentil and Quinoa Bowl",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Cooked quinoa",
+                        "quantity": "1/2 cup",
+                        "weight": "92g"
+                    },
+                    {
+                        "name": "Cooked lentils",
+                        "quantity": "1/2 cup",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Cherry tomatoes",
+                        "quantity": "1/2 cup",
+                        "weight": "75g"
+                    },
+                    {
+                        "name": "Spinach",
+                        "quantity": "1 cup",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Lemon juice",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Combine cooked quinoa, lentils, and spinach in a bowl.",
+                    "2. Add cherry tomatoes on top.",
+                    "3. Drizzle with olive oil and lemon juice.",
+                    "4. Season with salt and pepper.",
+                    "5. Toss gently and serve."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 120,
+                "protein_g": 5,
+                "carbohydrates_g": 18,
+                "fats_g": 3,
+                "fiber_g": 4
+            },
+            "image_link": "https://example.com/lentil-quinoa-bowl.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Caprese Salad",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Tomatoes",
+                        "quantity": "1 large",
+                        "weight": "150g"
+                    },
+                    {
+                        "name": "Fresh mozzarella",
+                        "quantity": "100g",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Fresh basil leaves",
+                        "quantity": "10 leaves",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Balsamic glaze",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Slice the tomatoes and mozzarella into even rounds.",
+                    "2. Arrange the slices alternately on a plate with basil leaves in between.",
+                    "3. Drizzle with olive oil and balsamic glaze.",
+                    "4. Season with salt and pepper.",
+                    "5. Serve immediately."
+                ],
+                "cooking_time_minutes": 5
+            },
+            "nutrition_per_100g": {
+                "calories": 160,
+                "protein_g": 7,
+                "carbohydrates_g": 4,
+                "fats_g": 13,
+                "fiber_g": 0.5
+            },
+            "image_link": "https://example.com/caprese-salad.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Chole Bhature",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Chole (chickpeas)",
+                        "quantity": "1/2 cup",
+                        "weight": "90g"
+                    },
+                    {
+                        "name": "Onion (chopped)",
+                        "quantity": "1 medium",
+                        "weight": "50g"
+                    },
+                    {
+                        "name": "Tomato (pureed)",
+                        "quantity": "1 medium",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Ginger-garlic paste",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Spices (cumin, coriander, garam masala, turmeric)",
+                        "quantity": "1 tsp each",
+                        "weight": "4g"
+                    },
+                    {
+                        "name": "Fried bread (bhatura)",
+                        "quantity": "1",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Cook chickpeas in a pressure cooker until soft.",
+                    "2. In a pan, sauté onions and ginger-garlic paste until golden.",
+                    "3. Add pureed tomatoes and spices, and cook for 5 minutes.",
+                    "4. Add the cooked chickpeas and some water, cook for 10-15 minutes.",
+                    "5. Serve with freshly made bhatura."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 280,
+                "protein_g": 8,
+                "carbohydrates_g": 38,
+                "fats_g": 10,
+                "fiber_g": 7
+            },
+            "image_link": "https://example.com/chole-bhature.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Quinoa and Chickpea Salad",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Cooked quinoa",
+                        "quantity": "1/2 cup",
+                        "weight": "92g"
+                    },
+                    {
+                        "name": "Cooked chickpeas",
+                        "quantity": "1/2 cup",
+                        "weight": "120g"
+                    },
+                    {
+                        "name": "Cucumber",
+                        "quantity": "1/2 medium",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Cherry tomatoes",
+                        "quantity": "1/2 cup",
+                        "weight": "75g"
+                    },
+                    {
+                        "name": "Parsley (chopped)",
+                        "quantity": "2 tbsp",
+                        "weight": "8g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Lemon juice",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Combine cooked quinoa, chickpeas, cucumber, and cherry tomatoes in a large bowl.",
+                    "2. Add chopped parsley and toss well.",
+                    "3. Drizzle with olive oil and lemon juice.",
+                    "4. Season with salt and pepper.",
+                    "5. Toss again and serve."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 140,
+                "protein_g": 5,
+                "carbohydrates_g": 18,
+                "fats_g": 5,
+                "fiber_g": 4
+            },
+            "image_link": "https://example.com/quinoa-chickpea-salad.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Shrimp and Avocado Bowl",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Cooked shrimp",
+                        "quantity": "100g",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Cooked brown rice",
+                        "quantity": "1/2 cup",
+                        "weight": "125g"
+                    },
+                    {
+                        "name": "Avocado",
+                        "quantity": "1/4 medium",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Spinach",
+                        "quantity": "1 cup",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Lime juice",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Arrange cooked brown rice and spinach in a bowl.",
+                    "2. Add cooked shrimp and sliced avocado.",
+                    "3. Drizzle olive oil and lime juice over the ingredients.",
+                    "4. Season with salt and pepper.",
+                    "5. Serve immediately."
+                ],
+                "cooking_time_minutes": 10
+            },
+            "nutrition_per_100g": {
+                "calories": 120,
+                "protein_g": 9,
+                "carbohydrates_g": 10,
+                "fats_g": 5,
+                "fiber_g": 1
+            },
+            "image_link": "https://example.com/shrimp-avocado-bowl.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Grilled Salmon with Steamed Vegetables",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Salmon fillet",
+                        "quantity": "120g",
+                        "weight": "120g"
+                    },
+                    {
+                        "name": "Broccoli",
+                        "quantity": "1 cup",
+                        "weight": "90g"
+                    },
+                    {
+                        "name": "Carrot",
+                        "quantity": "1 medium",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Lemon wedges",
+                        "quantity": "2 wedges",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Season the salmon fillet with salt and pepper.",
+                    "2. Grill the salmon until cooked through, about 4-5 minutes per side.",
+                    "3. Steam broccoli and carrot until tender.",
+                    "4. Drizzle olive oil over the vegetables.",
+                    "5. Serve the salmon with steamed vegetables and lemon wedges."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 130,
+                "protein_g": 12,
+                "carbohydrates_g": 2,
+                "fats_g": 8,
+                "fiber_g": 1
+            },
+            "image_link": "https://example.com/grilled-salmon-veggies.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Pasta Primavera",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Whole wheat pasta",
+                        "quantity": "1/2 cup cooked",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Zucchini",
+                        "quantity": "1/2 medium",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Bell pepper",
+                        "quantity": "1/2 medium",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Cherry tomatoes",
+                        "quantity": "1/2 cup",
+                        "weight": "75g"
+                    },
+                    {
+                        "name": "Garlic",
+                        "quantity": "2 cloves",
+                        "weight": "6g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Cook the pasta according to package instructions.",
+                    "2. Sauté garlic in olive oil over medium heat.",
+                    "3. Add zucchini, bell pepper, and cherry tomatoes. Cook until tender.",
+                    "4. Toss the cooked pasta with the vegetables.",
+                    "5. Season with salt and pepper and serve."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 140,
+                "protein_g": 5,
+                "carbohydrates_g": 20,
+                "fats_g": 4,
+                "fiber_g": 3
+            },
+            "image_link": "https://example.com/pasta-primavera.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Chicken and Sweet Potato Bowl",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Grilled chicken breast",
+                        "quantity": "100g",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Sweet potato",
+                        "quantity": "1/2 medium, roasted",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Spinach",
+                        "quantity": "1 cup",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Avocado",
+                        "quantity": "1/4 medium",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Lemon juice",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Arrange roasted sweet potato, spinach, and grilled chicken in a bowl.",
+                    "2. Add sliced avocado.",
+                    "3. Drizzle with olive oil and lemon juice.",
+                    "4. Season with salt and pepper.",
+                    "5. Serve warm or at room temperature."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 130,
+                "protein_g": 10,
+                "carbohydrates_g": 10,
+                "fats_g": 5,
+                "fiber_g": 2
+            },
+            "image_link": "https://example.com/chicken-sweet-potato-bowl.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Kung Pao Tofu",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Firm tofu (cubed)",
+                        "quantity": "100g",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Bell pepper (diced)",
+                        "quantity": "1/2 medium",
+                        "weight": "50g"
+                    },
+                    {
+                        "name": "Onion (diced)",
+                        "quantity": "1 small",
+                        "weight": "50g"
+                    },
+                    {
+                        "name": "Cashews",
+                        "quantity": "2 tbsp",
+                        "weight": "20g"
+                    },
+                    {
+                        "name": "Soy sauce",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Rice vinegar",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Chili paste",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Sesame oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Sugar",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    }
+                ],
+                "instructions": [
+                    "1. Heat sesame oil in a pan and sauté tofu cubes until golden brown.",
+                    "2. Add diced onion and bell pepper, stir-fry for 2-3 minutes.",
+                    "3. Add soy sauce, rice vinegar, chili paste, and sugar, cook for 5 minutes.",
+                    "4. Stir in cashews and cook for another minute.",
+                    "5. Serve with steamed rice."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 230,
+                "protein_g": 12,
+                "carbohydrates_g": 10,
+                "fats_g": 18,
+                "fiber_g": 3
+            },
+            "image_link": "https://example.com/kung-pao-tofu.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Sushi Bowl with Tuna",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Sushi rice",
+                        "quantity": "1/2 cup",
+                        "weight": "90g"
+                    },
+                    {
+                        "name": "Fresh tuna (sliced)",
+                        "quantity": "80g",
+                        "weight": "80g"
+                    },
+                    {
+                        "name": "Avocado (sliced)",
+                        "quantity": "1/4",
+                        "weight": "40g"
+                    },
+                    {
+                        "name": "Cucumber (sliced)",
+                        "quantity": "1/4",
+                        "weight": "20g"
+                    },
+                    {
+                        "name": "Carrot (shredded)",
+                        "quantity": "1/4",
+                        "weight": "20g"
+                    },
+                    {
+                        "name": "Soy sauce",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    }
+                ],
+                "instructions": [
+                    "1. Prepare sushi rice according to instructions.",
+                    "2. In a bowl, layer sushi rice, sliced tuna, avocado, cucumber, and shredded carrot.",
+                    "3. Drizzle with soy sauce and mix lightly.",
+                    "4. Serve immediately."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 210,
+                "protein_g": 17,
+                "carbohydrates_g": 28,
+                "fats_g": 5,
+                "fiber_g": 3
+            },
+            "image_link": "https://example.com/sushi-bowl.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Mapo Tofu",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Soft tofu (cubed)",
+                        "quantity": "100g",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Ground pork",
+                        "quantity": "50g",
+                        "weight": "50g"
+                    },
+                    {
+                        "name": "Garlic (chopped)",
+                        "quantity": "1 clove",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Ginger (chopped)",
+                        "quantity": "1 tsp",
+                        "weight": "3g"
+                    },
+                    {
+                        "name": "Doubanjiang (fermented chili paste)",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Soy sauce",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Rice vinegar",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Cornstarch (optional for thickening)",
+                        "quantity": "1 tsp",
+                        "weight": "3g"
+                    }
+                ],
+                "instructions": [
+                    "1. Heat oil in a pan, sauté garlic, and ginger until fragrant.",
+                    "2. Add ground pork and cook until browned.",
+                    "3. Add doubanjiang, soy sauce, rice vinegar, and tofu, cook for 5 minutes.",
+                    "4. Add cornstarch slurry to thicken if desired.",
+                    "5. Serve hot with steamed rice."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 200,
+                "protein_g": 15,
+                "carbohydrates_g": 5,
+                "fats_g": 14,
+                "fiber_g": 2
+            },
+            "image_link": "https://example.com/mapo-tofu.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Vegetable Fried Rice",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Cooked rice",
+                        "quantity": "1 cup",
+                        "weight": "150g"
+                    },
+                    {
+                        "name": "Carrot (diced)",
+                        "quantity": "1/2 medium",
+                        "weight": "50g"
+                    },
+                    {
+                        "name": "Green peas",
+                        "quantity": "1/4 cup",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Bell pepper (diced)",
+                        "quantity": "1/2 medium",
+                        "weight": "50g"
+                    },
+                    {
+                        "name": "Soy sauce",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Sesame oil",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Green onions (chopped)",
+                        "quantity": "1 stalk",
+                        "weight": "10g"
+                    }
+                ],
+                "instructions": [
+                    "1. Heat sesame oil in a pan and sauté carrots, peas, and bell pepper.",
+                    "2. Add cooked rice and stir-fry for 2-3 minutes.",
+                    "3. Add soy sauce and green onions, stir well.",
+                    "4. Serve hot."
+                ],
+                "cooking_time_minutes": 10
+            },
+            "nutrition_per_100g": {
+                "calories": 150,
+                "protein_g": 4,
+                "carbohydrates_g": 26,
+                "fats_g": 4,
+                "fiber_g": 3
+            },
+            "image_link": "https://example.com/vegetable-fried-rice.jpg"
+        }
+    ],
+    "dinner": [
+        {
+            "recipe": {
+                "name": "Grilled Lemon Herb Chicken with Asparagus",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Chicken breast",
+                        "quantity": "120g",
+                        "weight": "120g"
+                    },
+                    {
+                        "name": "Asparagus",
+                        "quantity": "1 cup",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Lemon juice",
+                        "quantity": "2 tbsp",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Garlic",
+                        "quantity": "2 cloves",
+                        "weight": "6g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Marinate chicken in olive oil, lemon juice, minced garlic, salt, and pepper for 30 minutes.",
+                    "2. Grill the chicken until fully cooked, about 5-7 minutes per side.",
+                    "3. Steam or grill asparagus until tender.",
+                    "4. Serve chicken with asparagus on the side."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 120,
+                "protein_g": 15,
+                "carbohydrates_g": 2,
+                "fats_g": 4,
+                "fiber_g": 1
+            },
+            "image_link": "https://example.com/lemon-herb-chicken-asparagus.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Baked Salmon with Garlic Butter and Green Beans",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Salmon fillet",
+                        "quantity": "150g",
+                        "weight": "150g"
+                    },
+                    {
+                        "name": "Green beans",
+                        "quantity": "1 cup",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Butter",
+                        "quantity": "1 tbsp",
+                        "weight": "14g"
+                    },
+                    {
+                        "name": "Garlic",
+                        "quantity": "2 cloves",
+                        "weight": "6g"
+                    },
+                    {
+                        "name": "Lemon slices",
+                        "quantity": "2 slices",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Preheat oven to 400°F (200°C).",
+                    "2. Place salmon fillet on a baking sheet and season with salt and pepper.",
+                    "3. Add minced garlic and a pat of butter on top of the salmon.",
+                    "4. Arrange green beans around the salmon and season with salt and pepper.",
+                    "5. Bake for 12-15 minutes or until the salmon is cooked through.",
+                    "6. Garnish with lemon slices and serve."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 160,
+                "protein_g": 16,
+                "carbohydrates_g": 1,
+                "fats_g": 9,
+                "fiber_g": 1
+            },
+            "image_link": "https://example.com/baked-salmon-garlic-butter.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Vegetable Stir-fry with Tofu",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Firm tofu",
+                        "quantity": "100g",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Bell peppers",
+                        "quantity": "1/2 cup",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Broccoli",
+                        "quantity": "1 cup",
+                        "weight": "90g"
+                    },
+                    {
+                        "name": "Soy sauce",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Garlic",
+                        "quantity": "2 cloves",
+                        "weight": "6g"
+                    },
+                    {
+                        "name": "Ginger",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    }
+                ],
+                "instructions": [
+                    "1. Heat olive oil in a pan over medium heat.",
+                    "2. Add minced garlic and ginger and sauté until fragrant.",
+                    "3. Add tofu and cook until golden on all sides.",
+                    "4. Add bell peppers and broccoli and stir-fry for 5 minutes.",
+                    "5. Add soy sauce and toss everything together.",
+                    "6. Serve hot."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 110,
+                "protein_g": 6,
+                "carbohydrates_g": 5,
+                "fats_g": 7,
+                "fiber_g": 2
+            },
+            "image_link": "https://example.com/vegetable-stirfry-tofu.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Turkey Meatballs with Zucchini Noodles",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Ground turkey",
+                        "quantity": "100g",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Zucchini (spiralized)",
+                        "quantity": "1 medium",
+                        "weight": "150g"
+                    },
+                    {
+                        "name": "Tomato sauce",
+                        "quantity": "1/2 cup",
+                        "weight": "120g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Garlic powder",
+                        "quantity": "1 tsp",
+                        "weight": "3g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Combine ground turkey, garlic powder, salt, and pepper. Form into small meatballs.",
+                    "2. Heat olive oil in a pan and cook meatballs until browned on all sides.",
+                    "3. Add tomato sauce to the pan and simmer for 10 minutes.",
+                    "4. In a separate pan, sauté zucchini noodles until tender.",
+                    "5. Serve meatballs and sauce over zucchini noodles."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 130,
+                "protein_g": 10,
+                "carbohydrates_g": 3,
+                "fats_g": 8,
+                "fiber_g": 1
+            },
+            "image_link": "https://example.com/turkey-meatballs-zoodles.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Eggplant Parmesan",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Eggplant",
+                        "quantity": "1/2 medium",
+                        "weight": "120g"
+                    },
+                    {
+                        "name": "Tomato sauce",
+                        "quantity": "1/2 cup",
+                        "weight": "120g"
+                    },
+                    {
+                        "name": "Mozzarella cheese",
+                        "quantity": "1/4 cup",
+                        "weight": "28g"
+                    },
+                    {
+                        "name": "Parmesan cheese",
+                        "quantity": "2 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Bread crumbs",
+                        "quantity": "2 tbsp",
+                        "weight": "14g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Preheat oven to 375°F (190°C).",
+                    "2. Slice eggplant and sprinkle with salt. Let sit for 10 minutes and pat dry.",
+                    "3. Brush eggplant slices with olive oil and bake for 10 minutes.",
+                    "4. Layer eggplant, tomato sauce, mozzarella, Parmesan, and breadcrumbs in a baking dish.",
+                    "5. Bake for 20-25 minutes or until cheese is bubbly and golden.",
+                    "6. Serve hot."
+                ],
+                "cooking_time_minutes": 20
+            },
+            "nutrition_per_100g": {
+                "calories": 140,
+                "protein_g": 6,
+                "carbohydrates_g": 8,
+                "fats_g": 9,
+                "fiber_g": 2
+            },
+            "image_link": "https://example.com/eggplant-parmesan.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Quinoa and Roasted Vegetables",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Quinoa",
+                        "quantity": "1/2 cup",
+                        "weight": "90g"
+                    },
+                    {
+                        "name": "Bell peppers",
+                        "quantity": "1 cup, diced",
+                        "weight": "150g"
+                    },
+                    {
+                        "name": "Zucchini",
+                        "quantity": "1 cup, diced",
+                        "weight": "120g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Paprika",
+                        "quantity": "1 tsp",
+                        "weight": "2g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Preheat oven to 400°F (200°C).",
+                    "2. Toss bell peppers and zucchini with olive oil, paprika, salt, and pepper.",
+                    "3. Roast vegetables on a baking sheet for 20-25 minutes, stirring occasionally.",
+                    "4. Cook quinoa according to package instructions.",
+                    "5. Serve roasted vegetables over quinoa."
+                ],
+                "cooking_time_minutes": 20
+            },
+            "nutrition_per_100g": {
+                "calories": 130,
+                "protein_g": 4,
+                "carbohydrates_g": 15,
+                "fats_g": 5,
+                "fiber_g": 3
+            },
+            "image_link": "https://example.com/quinoa-roasted-vegetables.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Spaghetti Squash with Turkey Bolognese",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Spaghetti squash",
+                        "quantity": "1/2 medium",
+                        "weight": "150g"
+                    },
+                    {
+                        "name": "Ground turkey",
+                        "quantity": "100g",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Tomato sauce",
+                        "quantity": "1/2 cup",
+                        "weight": "120g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Garlic",
+                        "quantity": "2 cloves, minced",
+                        "weight": "6g"
+                    },
+                    {
+                        "name": "Italian seasoning",
+                        "quantity": "1 tsp",
+                        "weight": "2g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Roast spaghetti squash at 400°F (200°C) for 40 minutes and scrape out the strands.",
+                    "2. Heat olive oil in a pan and sauté garlic until fragrant.",
+                    "3. Add ground turkey and cook until browned.",
+                    "4. Stir in tomato sauce, Italian seasoning, salt, and pepper.",
+                    "5. Serve turkey Bolognese over spaghetti squash strands."
+                ],
+                "cooking_time_minutes": 20
+            },
+            "nutrition_per_100g": {
+                "calories": 110,
+                "protein_g": 8,
+                "carbohydrates_g": 7,
+                "fats_g": 4,
+                "fiber_g": 2
+            },
+            "image_link": "https://example.com/spaghetti-squash-bolognese.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Stuffed Bell Peppers",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Bell peppers",
+                        "quantity": "2 large",
+                        "weight": "300g"
+                    },
+                    {
+                        "name": "Ground beef",
+                        "quantity": "100g",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Cooked rice",
+                        "quantity": "1/2 cup",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Tomato paste",
+                        "quantity": "2 tbsp",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Onion",
+                        "quantity": "1/4 cup, diced",
+                        "weight": "40g"
+                    },
+                    {
+                        "name": "Garlic",
+                        "quantity": "2 cloves, minced",
+                        "weight": "6g"
+                    },
+                    {
+                        "name": "Cheese (optional)",
+                        "quantity": "2 tbsp, grated",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Preheat oven to 375°F (190°C).",
+                    "2. Cut the tops off the bell peppers and remove the seeds.",
+                    "3. In a pan, cook ground beef, onion, and garlic until browned.",
+                    "4. Mix cooked rice, tomato paste, salt, and pepper with the beef mixture.",
+                    "5. Stuff bell peppers with the mixture and top with cheese if desired.",
+                    "6. Bake for 25-30 minutes or until peppers are tender."
+                ],
+                "cooking_time_minutes": 20
+            },
+            "nutrition_per_100g": {
+                "calories": 150,
+                "protein_g": 8,
+                "carbohydrates_g": 12,
+                "fats_g": 6,
+                "fiber_g": 3
+            },
+            "image_link": "https://example.com/stuffed-bell-peppers.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Grilled Shrimp Skewers with Couscous",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Shrimp (peeled and deveined)",
+                        "quantity": "100g",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Couscous",
+                        "quantity": "1/2 cup",
+                        "weight": "90g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Lemon juice",
+                        "quantity": "2 tbsp",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Garlic",
+                        "quantity": "2 cloves, minced",
+                        "weight": "6g"
+                    },
+                    {
+                        "name": "Parsley",
+                        "quantity": "1 tbsp, chopped",
+                        "weight": "4g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Marinate shrimp with olive oil, lemon juice, garlic, salt, and pepper for 20 minutes.",
+                    "2. Thread shrimp onto skewers and grill for 2-3 minutes per side.",
+                    "3. Cook couscous according to package instructions.",
+                    "4. Serve shrimp skewers over couscous, garnished with parsley."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 130,
+                "protein_g": 10,
+                "carbohydrates_g": 12,
+                "fats_g": 4,
+                "fiber_g": 1
+            },
+            "image_link": "https://example.com/shrimp-skewers-couscous.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Sushi Rolls with Salmon",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Sushi rice",
+                        "quantity": "1/2 cup",
+                        "weight": "90g"
+                    },
+                    {
+                        "name": "Nori (seaweed sheet)",
+                        "quantity": "1 sheet",
+                        "weight": "2g"
+                    },
+                    {
+                        "name": "Fresh salmon (sliced)",
+                        "quantity": "50g",
+                        "weight": "50g"
+                    },
+                    {
+                        "name": "Avocado (sliced)",
+                        "quantity": "1/4",
+                        "weight": "40g"
+                    },
+                    {
+                        "name": "Cucumber (sliced)",
+                        "quantity": "1/4",
+                        "weight": "20g"
+                    },
+                    {
+                        "name": "Soy sauce",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    }
+                ],
+                "instructions": [
+                    "1. Prepare sushi rice as per instructions.",
+                    "2. Place a nori sheet on a bamboo mat, spread sushi rice over it.",
+                    "3. Add salmon, avocado, and cucumber slices on top of the rice.",
+                    "4. Roll tightly using the bamboo mat, slice into pieces.",
+                    "5. Serve with soy sauce for dipping."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 180,
+                "protein_g": 10,
+                "carbohydrates_g": 28,
+                "fats_g": 6,
+                "fiber_g": 2
+            },
+            "image_link": "https://example.com/sushi-rolls.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Grilled Chicken Salad",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Chicken breast (boneless, skinless)",
+                        "quantity": "1 medium",
+                        "weight": "150g"
+                    },
+                    {
+                        "name": "Mixed greens (lettuce, spinach, arugula)",
+                        "quantity": "2 cups",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Cherry tomatoes",
+                        "quantity": "1/2 cup",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Cucumber",
+                        "quantity": "1/2 medium",
+                        "weight": "50g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Lemon juice",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Feta cheese",
+                        "quantity": "1 oz",
+                        "weight": "28g"
+                    }
+                ],
+                "instructions": [
+                    "1. Grill the chicken breast until fully cooked, then slice it.",
+                    "2. In a large bowl, toss the mixed greens, cherry tomatoes, cucumber, and feta cheese.",
+                    "3. Drizzle with olive oil and lemon juice.",
+                    "4. Top the salad with grilled chicken slices and serve."
+                ],
+                "cooking_time_minutes": 10
+            },
+            "nutrition_per_100g": {
+                "calories": 200,
+                "protein_g": 25,
+                "carbohydrates_g": 5,
+                "fats_g": 10,
+                "fiber_g": 2
+            },
+            "image_link": "https://example.com/grilled-chicken-salad.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Lentil & Vegetable Stew (Vegan)",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Lentils (green or brown)",
+                        "quantity": "1/2 cup",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Carrot",
+                        "quantity": "1 medium",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Celery stalk",
+                        "quantity": "1 medium",
+                        "weight": "40g"
+                    },
+                    {
+                        "name": "Diced tomatoes",
+                        "quantity": "1/2 cup",
+                        "weight": "120g"
+                    },
+                    {
+                        "name": "Spinach",
+                        "quantity": "1 cup",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Onion",
+                        "quantity": "1/2 medium",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Garlic",
+                        "quantity": "2 cloves",
+                        "weight": "6g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Vegetable broth",
+                        "quantity": "2 cups",
+                        "weight": "480g"
+                    }
+                ],
+                "instructions": [
+                    "1. In a pot, sauté onion, garlic, carrot, and celery in olive oil for 5-7 minutes.",
+                    "2. Add the lentils, diced tomatoes, vegetable broth, and bring to a boil.",
+                    "3. Reduce heat and simmer for 25-30 minutes until lentils are tender.",
+                    "4. Stir in spinach and cook for an additional 2-3 minutes.",
+                    "5. Serve warm and enjoy."
+                ],
+                "cooking_time_minutes": 20
+            },
+            "nutrition_per_100g": {
+                "calories": 120,
+                "protein_g": 8,
+                "carbohydrates_g": 20,
+                "fats_g": 3,
+                "fiber_g": 7
+            },
+            "image_link": "https://example.com/lentil-vegetable-stew.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Chickpea & Spinach Curry (Vegan)",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Canned chickpeas (drained and rinsed)",
+                        "quantity": "1/2 can",
+                        "weight": "120g"
+                    },
+                    {
+                        "name": "Spinach",
+                        "quantity": "2 cups",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Tomato",
+                        "quantity": "1 medium",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Coconut milk",
+                        "quantity": "1/4 cup",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Curry powder",
+                        "quantity": "1 tsp",
+                        "weight": "2g"
+                    },
+                    {
+                        "name": "Garlic",
+                        "quantity": "2 cloves",
+                        "weight": "6g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    }
+                ],
+                "instructions": [
+                    "1. In a pan, sauté garlic in olive oil until fragrant (about 2 minutes).",
+                    "2. Add diced tomato, chickpeas, and curry powder. Stir and cook for 5-7 minutes.",
+                    "3. Add coconut milk and spinach. Stir until the spinach wilts and the curry thickens.",
+                    "4. Serve with rice or bread."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 160,
+                "protein_g": 8,
+                "carbohydrates_g": 18,
+                "fats_g": 7,
+                "fiber_g": 6
+            },
+            "image_link": "https://example.com/chickpea-spinach-curry.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Palak Paneer with Roti",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Paneer (cubed)",
+                        "quantity": "100g",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Spinach",
+                        "quantity": "2 cups",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Onion",
+                        "quantity": "1/2 medium",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Tomato puree",
+                        "quantity": "1/4 cup",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Garlic",
+                        "quantity": "2 cloves",
+                        "weight": "6g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Roti (whole wheat)",
+                        "quantity": "1 medium",
+                        "weight": "60g"
+                    }
+                ],
+                "instructions": [
+                    "1. Blanch spinach and blend into a smooth paste.",
+                    "2. In a pan, sauté onion and garlic in olive oil until soft.",
+                    "3. Add tomato puree, spinach paste, and cook for 5-7 minutes.",
+                    "4. Add cubed paneer and cook for another 3-4 minutes.",
+                    "5. Serve with a warm whole wheat roti."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 200,
+                "protein_g": 12,
+                "carbohydrates_g": 15,
+                "fats_g": 12,
+                "fiber_g": 5
+            },
+            "image_link": "https://example.com/palak-paneer-roti.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Chole (Chickpea Curry) with Jeera Rice",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Chickpeas (soaked and boiled)",
+                        "quantity": "1/2 cup",
+                        "weight": "120g"
+                    },
+                    {
+                        "name": "Onion",
+                        "quantity": "1/2 medium",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Tomato puree",
+                        "quantity": "1/4 cup",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Ginger-garlic paste",
+                        "quantity": "1 tsp",
+                        "weight": "3g"
+                    },
+                    {
+                        "name": "Cumin seeds",
+                        "quantity": "1 tsp",
+                        "weight": "2g"
+                    },
+                    {
+                        "name": "Jeera rice (cooked)",
+                        "quantity": "1/2 cup",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Garam masala",
+                        "quantity": "1/2 tsp",
+                        "weight": "1g"
+                    }
+                ],
+                "instructions": [
+                    "1. Heat olive oil and sauté cumin seeds until aromatic.",
+                    "2. Add onion and ginger-garlic paste and sauté until golden.",
+                    "3. Add tomato puree, chickpeas, and garam masala. Cook for 10-15 minutes.",
+                    "4. Serve with jeera rice."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 250,
+                "protein_g": 9,
+                "carbohydrates_g": 40,
+                "fats_g": 8,
+                "fiber_g": 7
+            },
+            "image_link": "https://example.com/chole-jeera-rice.jpg"
+        }
+    ],
+    "snacks": [
+        {
+            "recipe": {
+                "name": "Zucchini Fries",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Zucchini",
+                        "quantity": "1 medium",
+                        "weight": "200g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Parmesan cheese (grated)",
+                        "quantity": "2 tbsp",
+                        "weight": "10g"
+                    },
+                    {
+                        "name": "Garlic powder",
+                        "quantity": "1/2 tsp",
+                        "weight": "1g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Preheat oven to 425°F (220°C).",
+                    "2. Slice zucchini into thin fries.",
+                    "3. Toss zucchini slices in olive oil, garlic powder, salt, and parmesan cheese.",
+                    "4. Spread evenly on a baking sheet and bake for 20-25 minutes until crispy.",
+                    "5. Serve with your favorite dipping sauce."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 130,
+                "protein_g": 4,
+                "carbohydrates_g": 7,
+                "fats_g": 9,
+                "fiber_g": 2
+            },
+            "image_link": "https://example.com/zucchini-fries.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Cucumber and Cream Cheese Bites",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Cucumber",
+                        "quantity": "1/2 medium, sliced",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Cream cheese",
+                        "quantity": "2 tbsp",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Fresh dill",
+                        "quantity": "1 tsp, chopped",
+                        "weight": "2g"
+                    },
+                    {
+                        "name": "Black pepper",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Slice the cucumber into thin rounds.",
+                    "2. Spread cream cheese on each cucumber slice.",
+                    "3. Sprinkle with fresh dill and black pepper.",
+                    "4. Serve as a light snack."
+                ],
+                "cooking_time_minutes": 5
+            },
+            "nutrition_per_100g": {
+                "calories": 70,
+                "protein_g": 2,
+                "carbohydrates_g": 5,
+                "fats_g": 5,
+                "fiber_g": 1
+            },
+            "image_link": "https://example.com/cucumber-cream-cheese-bites.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Roasted Chickpeas",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Canned chickpeas",
+                        "quantity": "1/2 cup",
+                        "weight": "80g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Cumin",
+                        "quantity": "1/2 tsp",
+                        "weight": "1g"
+                    },
+                    {
+                        "name": "Paprika",
+                        "quantity": "1/4 tsp",
+                        "weight": "1g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Preheat oven to 400°F (200°C).",
+                    "2. Drain and rinse chickpeas, then pat dry.",
+                    "3. Toss chickpeas with olive oil, cumin, paprika, and salt.",
+                    "4. Spread on a baking sheet and roast for 20-25 minutes until crispy.",
+                    "5. Let cool and serve as a crunchy snack."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 140,
+                "protein_g": 7,
+                "carbohydrates_g": 20,
+                "fats_g": 5,
+                "fiber_g": 6
+            },
+            "image_link": "https://example.com/roasted-chickpeas.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Apple Slices with Peanut Butter",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Apple",
+                        "quantity": "1 medium",
+                        "weight": "180g"
+                    },
+                    {
+                        "name": "Peanut butter",
+                        "quantity": "1 tbsp",
+                        "weight": "16g"
+                    },
+                    {
+                        "name": "Cinnamon",
+                        "quantity": "1/4 tsp",
+                        "weight": "1g"
+                    }
+                ],
+                "instructions": [
+                    "1. Slice the apple into wedges.",
+                    "2. Spread peanut butter on each apple slice.",
+                    "3. Sprinkle with cinnamon for extra flavor.",
+                    "4. Serve as a healthy snack."
+                ],
+                "cooking_time_minutes": 5
+            },
+            "nutrition_per_100g": {
+                "calories": 120,
+                "protein_g": 3,
+                "carbohydrates_g": 15,
+                "fats_g": 7,
+                "fiber_g": 3
+            },
+            "image_link": "https://example.com/apple-slices-peanut-butter.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Almond and Date Energy Balls",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Almonds (raw)",
+                        "quantity": "1/4 cup",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Dates (pitted)",
+                        "quantity": "4 medium",
+                        "weight": "50g"
+                    },
+                    {
+                        "name": "Coconut flakes (unsweetened)",
+                        "quantity": "2 tbsp",
+                        "weight": "10g"
+                    },
+                    {
+                        "name": "Cocoa powder",
+                        "quantity": "1 tbsp",
+                        "weight": "5g"
+                    }
+                ],
+                "instructions": [
+                    "1. In a food processor, pulse almonds until finely ground.",
+                    "2. Add dates, coconut flakes, and cocoa powder, and pulse until combined.",
+                    "3. Roll the mixture into small balls.",
+                    "4. Refrigerate for at least 30 minutes before serving."
+                ],
+                "cooking_time_minutes": 10
+            },
+            "nutrition_per_100g": {
+                "calories": 230,
+                "protein_g": 5,
+                "carbohydrates_g": 30,
+                "fats_g": 10,
+                "fiber_g": 5
+            },
+            "image_link": "https://example.com/almond-date-energy-balls.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Carrot and Celery Sticks with Hummus",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Carrot",
+                        "quantity": "1 medium",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Celery stalks",
+                        "quantity": "2 medium",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Hummus",
+                        "quantity": "3 tbsp",
+                        "weight": "45g"
+                    }
+                ],
+                "instructions": [
+                    "1. Peel and cut carrots into sticks.",
+                    "2. Cut celery stalks into sticks.",
+                    "3. Serve with hummus for dipping."
+                ],
+                "cooking_time_minutes": 5
+            },
+            "nutrition_per_100g": {
+                "calories": 90,
+                "protein_g": 3,
+                "carbohydrates_g": 10,
+                "fats_g": 5,
+                "fiber_g": 4
+            },
+            "image_link": "https://example.com/carrot-celery-hummus.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Spicy Roasted Pumpkin Seeds",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Pumpkin seeds (raw)",
+                        "quantity": "1/4 cup",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Paprika",
+                        "quantity": "1/2 tsp",
+                        "weight": "1g"
+                    },
+                    {
+                        "name": "Cayenne pepper",
+                        "quantity": "1/4 tsp",
+                        "weight": "1g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "0g"
+                    }
+                ],
+                "instructions": [
+                    "1. Preheat oven to 350°F (175°C).",
+                    "2. Toss pumpkin seeds with olive oil, paprika, cayenne pepper, and salt.",
+                    "3. Spread evenly on a baking sheet and bake for 10-15 minutes until golden brown.",
+                    "4. Let cool before serving."
+                ],
+                "cooking_time_minutes": 10
+            },
+            "nutrition_per_100g": {
+                "calories": 560,
+                "protein_g": 30,
+                "carbohydrates_g": 15,
+                "fats_g": 45,
+                "fiber_g": 5
+            },
+            "image_link": "https://example.com/spicy-roasted-pumpkin-seeds.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Cottage Cheese and Tomato Bites",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Cottage cheese (low fat)",
+                        "quantity": "1/4 cup",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Tomato",
+                        "quantity": "1 medium, sliced",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Fresh basil",
+                        "quantity": "1 tsp, chopped",
+                        "weight": "2g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    }
+                ],
+                "instructions": [
+                    "1. Slice the tomato into thin rounds.",
+                    "2. Spoon cottage cheese onto each tomato slice.",
+                    "3. Top with fresh basil and drizzle with olive oil.",
+                    "4. Serve immediately as a light snack."
+                ],
+                "cooking_time_minutes": 5
+            },
+            "nutrition_per_100g": {
+                "calories": 85,
+                "protein_g": 6,
+                "carbohydrates_g": 5,
+                "fats_g": 5,
+                "fiber_g": 1
+            },
+            "image_link": "https://example.com/cottage-cheese-tomato-bites.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Edamame Beans with Sea Salt",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Edamame beans (frozen)",
+                        "quantity": "1 cup",
+                        "weight": "150g"
+                    },
+                    {
+                        "name": "Sea salt",
+                        "quantity": "to taste",
+                        "weight": "1g"
+                    }
+                ],
+                "instructions": [
+                    "1. Boil edamame beans for 5-6 minutes, then drain and rinse with cold water.",
+                    "2. Sprinkle with sea salt and serve immediately."
+                ],
+                "cooking_time_minutes": 5
+            },
+            "nutrition_per_100g": {
+                "calories": 120,
+                "protein_g": 11,
+                "carbohydrates_g": 9,
+                "fats_g": 5,
+                "fiber_g": 6
+            },
+            "image_link": "https://example.com/edamame-sea-salt.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Baked Sweet Potato Fries",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Sweet potato",
+                        "quantity": "1 medium",
+                        "weight": "150g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Paprika",
+                        "quantity": "1 tsp",
+                        "weight": "2g"
+                    },
+                    {
+                        "name": "Garlic powder",
+                        "quantity": "1/2 tsp",
+                        "weight": "1g"
+                    },
+                    {
+                        "name": "Salt and pepper",
+                        "quantity": "to taste",
+                        "weight": "1g"
+                    }
+                ],
+                "instructions": [
+                    "1. Preheat the oven to 400°F (200°C).",
+                    "2. Peel and cut the sweet potato into thin strips.",
+                    "3. Toss the sweet potato strips in olive oil, paprika, garlic powder, salt, and pepper.",
+                    "4. Arrange on a baking sheet and bake for 20-25 minutes until crispy."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 130,
+                "protein_g": 2,
+                "carbohydrates_g": 30,
+                "fats_g": 3,
+                "fiber_g": 4
+            },
+            "image_link": "https://example.com/baked-sweet-potato-fries.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Chickpea & Avocado Salad",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Chickpeas (boiled)",
+                        "quantity": "1/4 cup",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Avocado",
+                        "quantity": "1/4 medium",
+                        "weight": "40g"
+                    },
+                    {
+                        "name": "Cherry tomatoes",
+                        "quantity": "4-5",
+                        "weight": "50g"
+                    },
+                    {
+                        "name": "Red onion (finely chopped)",
+                        "quantity": "2 tbsp",
+                        "weight": "10g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Lemon juice",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Salt and pepper",
+                        "quantity": "to taste",
+                        "weight": "1g"
+                    }
+                ],
+                "instructions": [
+                    "1. In a bowl, mix chickpeas, chopped avocado, cherry tomatoes, and red onion.",
+                    "2. Drizzle olive oil and lemon juice, then toss everything together.",
+                    "3. Season with salt and pepper and serve chilled."
+                ],
+                "cooking_time_minutes": 10
+            },
+            "nutrition_per_100g": {
+                "calories": 150,
+                "protein_g": 4,
+                "carbohydrates_g": 15,
+                "fats_g": 9,
+                "fiber_g": 5
+            },
+            "image_link": "https://example.com/chickpea-avocado-salad.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Roasted Almonds with Sea Salt",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Almonds",
+                        "quantity": "1/4 cup",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Sea salt",
+                        "quantity": "to taste",
+                        "weight": "1g"
+                    }
+                ],
+                "instructions": [
+                    "1. Preheat the oven to 350°F (175°C).",
+                    "2. Toss almonds in olive oil and sea salt.",
+                    "3. Spread on a baking sheet and roast for 10-12 minutes, stirring halfway."
+                ],
+                "cooking_time_minutes": 10
+            },
+            "nutrition_per_100g": {
+                "calories": 580,
+                "protein_g": 21,
+                "carbohydrates_g": 22,
+                "fats_g": 49,
+                "fiber_g": 12
+            },
+            "image_link": "https://example.com/roasted-almonds-sea-salt.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Vegetable Samosa (Baked)",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Whole wheat pastry sheets",
+                        "quantity": "2 sheets",
+                        "weight": "40g"
+                    },
+                    {
+                        "name": "Potato (boiled and mashed)",
+                        "quantity": "1/2 medium",
+                        "weight": "70g"
+                    },
+                    {
+                        "name": "Green peas",
+                        "quantity": "2 tbsp",
+                        "weight": "20g"
+                    },
+                    {
+                        "name": "Cumin seeds",
+                        "quantity": "1/4 tsp",
+                        "weight": "0.5g"
+                    },
+                    {
+                        "name": "Turmeric powder",
+                        "quantity": "1/4 tsp",
+                        "weight": "0.5g"
+                    },
+                    {
+                        "name": "Coriander powder",
+                        "quantity": "1/2 tsp",
+                        "weight": "1g"
+                    },
+                    {
+                        "name": "Salt and pepper",
+                        "quantity": "to taste",
+                        "weight": "1g"
+                    }
+                ],
+                "instructions": [
+                    "1. Preheat the oven to 375°F (190°C).",
+                    "2. Mix mashed potatoes, peas, cumin, turmeric, coriander powder, salt, and pepper.",
+                    "3. Fill the pastry sheets with the mixture and fold into a triangle shape.",
+                    "4. Bake for 20-25 minutes until golden brown."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 170,
+                "protein_g": 3,
+                "carbohydrates_g": 25,
+                "fats_g": 6,
+                "fiber_g": 4
+            },
+            "image_link": "https://example.com/baked-vegetable-samosa.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Cottage Cheese and Fruit Salad",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Cottage cheese (low-fat)",
+                        "quantity": "1/2 cup",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Apple (chopped)",
+                        "quantity": "1/2 medium",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Banana (sliced)",
+                        "quantity": "1/2 medium",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Chopped walnuts",
+                        "quantity": "1 tbsp",
+                        "weight": "8g"
+                    },
+                    {
+                        "name": "Honey",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    }
+                ],
+                "instructions": [
+                    "1. In a bowl, mix cottage cheese with chopped apple, banana, and walnuts.",
+                    "2. Drizzle with honey and serve chilled."
+                ],
+                "cooking_time_minutes": 5
+            },
+            "nutrition_per_100g": {
+                "calories": 140,
+                "protein_g": 8,
+                "carbohydrates_g": 15,
+                "fats_g": 6,
+                "fiber_g": 3
+            },
+            "image_link": "https://example.com/cottage-cheese-fruit-salad.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Baked Kale Chips",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Kale (fresh)",
+                        "quantity": "1 cup",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Olive oil",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Garlic powder",
+                        "quantity": "1/4 tsp",
+                        "weight": "0.5g"
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "to taste",
+                        "weight": "1g"
+                    }
+                ],
+                "instructions": [
+                    "1. Preheat the oven to 350°F (175°C).",
+                    "2. Toss kale with olive oil, garlic powder, and salt.",
+                    "3. Spread evenly on a baking sheet and bake for 10-15 minutes until crispy."
+                ],
+                "cooking_time_minutes": 10
+            },
+            "nutrition_per_100g": {
+                "calories": 50,
+                "protein_g": 2,
+                "carbohydrates_g": 8,
+                "fats_g": 2,
+                "fiber_g": 3
+            },
+            "image_link": "https://example.com/baked-kale-chips.jpg"
+        }
+    ],
+    "desserts": [
+        {
+            "recipe": {
+                "name": "Almond Joy Protein Balls",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Almond butter",
+                        "quantity": "2 tbsp",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Chocolate protein powder",
+                        "quantity": "1 tbsp",
+                        "weight": "10g"
+                    },
+                    {
+                        "name": "Shredded coconut",
+                        "quantity": "1 tbsp",
+                        "weight": "10g"
+                    },
+                    {
+                        "name": "Raw almonds (chopped)",
+                        "quantity": "1 tbsp",
+                        "weight": "10g"
+                    },
+                    {
+                        "name": "Honey",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Water",
+                        "quantity": "1-2 tbsp",
+                        "weight": "15g"
+                    }
+                ],
+                "instructions": [
+                    "1. Mix almond butter, protein powder, shredded coconut, chopped almonds, and honey in a bowl.",
+                    "2. Gradually add water to form a dough-like consistency.",
+                    "3. Roll the mixture into small balls.",
+                    "4. Refrigerate for 30 minutes before serving."
+                ],
+                "cooking_time_minutes": 10
+            },
+            "nutrition_per_100g": {
+                "calories": 210,
+                "protein_g": 9,
+                "carbohydrates_g": 14,
+                "fats_g": 14,
+                "fiber_g": 4
+            },
+            "image_link": "https://example.com/almond-joy-protein-balls.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Avocado Chocolate Mousse",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Avocado (ripe)",
+                        "quantity": "1/2 medium",
+                        "weight": "100g"
+                    },
+                    {
+                        "name": "Cocoa powder (unsweetened)",
+                        "quantity": "2 tbsp",
+                        "weight": "10g"
+                    },
+                    {
+                        "name": "Honey or maple syrup",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Vanilla extract",
+                        "quantity": "1/2 tsp",
+                        "weight": "2g"
+                    },
+                    {
+                        "name": "Almond milk (or other milk)",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    }
+                ],
+                "instructions": [
+                    "1. Blend avocado, cocoa powder, honey, vanilla extract, and almond milk in a blender until smooth.",
+                    "2. Chill in the refrigerator for at least 30 minutes.",
+                    "3. Serve as a creamy mousse."
+                ],
+                "cooking_time_minutes": 10
+            },
+            "nutrition_per_100g": {
+                "calories": 150,
+                "protein_g": 2,
+                "carbohydrates_g": 18,
+                "fats_g": 10,
+                "fiber_g": 7
+            },
+            "image_link": "https://example.com/avocado-chocolate-mousse.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Baked Apple Cinnamon Chips",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Apple (thinly sliced)",
+                        "quantity": "1 medium",
+                        "weight": "150g"
+                    },
+                    {
+                        "name": "Cinnamon",
+                        "quantity": "1 tsp",
+                        "weight": "2g"
+                    },
+                    {
+                        "name": "Honey",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Lemon juice",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    }
+                ],
+                "instructions": [
+                    "1. Preheat the oven to 200°F (93°C).",
+                    "2. Thinly slice the apple and arrange the slices on a baking sheet.",
+                    "3. Sprinkle with cinnamon and drizzle with honey and lemon juice.",
+                    "4. Bake for 2 hours, flipping the slices halfway through, until crispy.",
+                    "5. Cool and serve."
+                ],
+                "cooking_time_minutes": 20
+            },
+            "nutrition_per_100g": {
+                "calories": 50,
+                "protein_g": 0,
+                "carbohydrates_g": 14,
+                "fats_g": 0,
+                "fiber_g": 3
+            },
+            "image_link": "https://example.com/baked-apple-cinnamon-chips.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Greek Yogurt Parfait with Berries",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Greek yogurt (plain, non-fat)",
+                        "quantity": "1/2 cup",
+                        "weight": "120g"
+                    },
+                    {
+                        "name": "Mixed berries (strawberries, blueberries, raspberries)",
+                        "quantity": "1/4 cup",
+                        "weight": "40g"
+                    },
+                    {
+                        "name": "Honey",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Chia seeds",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Granola",
+                        "quantity": "1 tbsp",
+                        "weight": "10g"
+                    }
+                ],
+                "instructions": [
+                    "1. In a bowl, layer Greek yogurt and mixed berries.",
+                    "2. Drizzle with honey and top with chia seeds and granola.",
+                    "3. Serve immediately or chill for a few minutes."
+                ],
+                "cooking_time_minutes": 5
+            },
+            "nutrition_per_100g": {
+                "calories": 120,
+                "protein_g": 7,
+                "carbohydrates_g": 16,
+                "fats_g": 3,
+                "fiber_g": 3
+            },
+            "image_link": "https://example.com/greek-yogurt-parfait.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Chia Seed Pudding with Coconut Milk",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Chia seeds",
+                        "quantity": "2 tbsp",
+                        "weight": "20g"
+                    },
+                    {
+                        "name": "Coconut milk (light)",
+                        "quantity": "1/2 cup",
+                        "weight": "120g"
+                    },
+                    {
+                        "name": "Vanilla extract",
+                        "quantity": "1/2 tsp",
+                        "weight": "2g"
+                    },
+                    {
+                        "name": "Stevia or maple syrup",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Fresh berries (optional)",
+                        "quantity": "1/4 cup",
+                        "weight": "40g"
+                    }
+                ],
+                "instructions": [
+                    "1. In a bowl, combine chia seeds, coconut milk, vanilla extract, and sweetener.",
+                    "2. Stir well and refrigerate for at least 4 hours or overnight.",
+                    "3. Top with fresh berries before serving."
+                ],
+                "cooking_time_minutes": 10
+            },
+            "nutrition_per_100g": {
+                "calories": 150,
+                "protein_g": 4,
+                "carbohydrates_g": 15,
+                "fats_g": 8,
+                "fiber_g": 10
+            },
+            "image_link": "https://example.com/chia-seed-pudding-coconut-milk.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Banana Oat Smoothie",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Banana",
+                        "quantity": "1 medium",
+                        "weight": "120g"
+                    },
+                    {
+                        "name": "Rolled oats",
+                        "quantity": "1/4 cup",
+                        "weight": "20g"
+                    },
+                    {
+                        "name": "Milk (low-fat)",
+                        "quantity": "1 cup",
+                        "weight": "240g"
+                    },
+                    {
+                        "name": "Honey",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Cinnamon",
+                        "quantity": "1/4 tsp",
+                        "weight": "0.5g"
+                    },
+                    {
+                        "name": "Ice cubes",
+                        "quantity": "4-5",
+                        "weight": "50g"
+                    }
+                ],
+                "instructions": [
+                    "1. Add banana, oats, milk, honey, and cinnamon to a blender.",
+                    "2. Blend until smooth.",
+                    "3. Add ice cubes and blend again to desired consistency.",
+                    "4. Pour into a glass and enjoy immediately!"
+                ],
+                "cooking_time_minutes": 5
+            },
+            "nutrition_per_100g": {
+                "calories": 90,
+                "protein_g": 3,
+                "carbohydrates_g": 15,
+                "fats_g": 1.5,
+                "fiber_g": 1.8
+            },
+            "image_link": ""
+        },
+        {
+            "recipe": {
+                "name": "Chia Pudding",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Chia seeds",
+                        "quantity": "2 tbsp",
+                        "weight": "28g"
+                    },
+                    {
+                        "name": "Almond milk (unsweetened)",
+                        "quantity": "1/2 cup",
+                        "weight": "120g"
+                    },
+                    {
+                        "name": "Maple syrup",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Vanilla extract",
+                        "quantity": "1/4 tsp",
+                        "weight": "1g"
+                    },
+                    {
+                        "name": "Fresh fruits (e.g., mango, berries)",
+                        "quantity": "1/4 cup",
+                        "weight": "50g"
+                    }
+                ],
+                "instructions": [
+                    "1. In a bowl or jar, mix chia seeds, almond milk, maple syrup, and vanilla extract.",
+                    "2. Stir well to combine and let sit for 5 minutes.",
+                    "3. Stir again to prevent clumping, then cover and refrigerate for at least 2 hours or overnight.",
+                    "4. Top with fresh fruits before serving."
+                ],
+                "cooking_time_minutes": 5
+            },
+            "nutrition_per_100g": {
+                "calories": 130,
+                "protein_g": 4,
+                "carbohydrates_g": 9,
+                "fats_g": 8,
+                "fiber_g": 6
+            },
+            "image_link": ""
+        },
+        {
+            "recipe": {
+                "name": "Greek Yogurt with Honey and Almonds",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Greek yogurt (plain)",
+                        "quantity": "3/4 cup",
+                        "weight": "170g"
+                    },
+                    {
+                        "name": "Honey",
+                        "quantity": "1 tbsp",
+                        "weight": "21g"
+                    },
+                    {
+                        "name": "Almonds (sliced)",
+                        "quantity": "1 tbsp",
+                        "weight": "10g"
+                    },
+                    {
+                        "name": "Chia seeds",
+                        "quantity": "1 tsp",
+                        "weight": "2g"
+                    }
+                ],
+                "instructions": [
+                    "1. Spoon Greek yogurt into a bowl.",
+                    "2. Drizzle honey over the yogurt.",
+                    "3. Sprinkle sliced almonds and chia seeds on top.",
+                    "4. Serve immediately."
+                ],
+                "cooking_time_minutes": 5
+            },
+            "nutrition_per_100g": {
+                "calories": 140,
+                "protein_g": 7,
+                "carbohydrates_g": 15,
+                "fats_g": 7,
+                "fiber_g": 2
+            },
+            "image_link": "https://example.com/greek-yogurt-honey-almonds.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Coconut Macaroons",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Shredded coconut (unsweetened)",
+                        "quantity": "1 cup",
+                        "weight": "80g"
+                    },
+                    {
+                        "name": "Egg whites",
+                        "quantity": "2 large",
+                        "weight": "60g"
+                    },
+                    {
+                        "name": "Honey",
+                        "quantity": "2 tbsp",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Vanilla extract",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    }
+                ],
+                "instructions": [
+                    "1. Preheat the oven to 350°F (175°C) and line a baking sheet with parchment paper.",
+                    "2. In a bowl, whisk egg whites until stiff peaks form.",
+                    "3. Fold in the shredded coconut, honey, and vanilla extract.",
+                    "4. Scoop the mixture onto the baking sheet and bake for 12-15 minutes until golden.",
+                    "5. Let them cool and enjoy."
+                ],
+                "cooking_time_minutes": 15
+            },
+            "nutrition_per_100g": {
+                "calories": 200,
+                "protein_g": 3,
+                "carbohydrates_g": 18,
+                "fats_g": 14,
+                "fiber_g": 5
+            },
+            "image_link": "https://example.com/coconut-macaroons.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Almond Butter Banana Ice Cream",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Frozen banana (sliced)",
+                        "quantity": "1 medium",
+                        "weight": "120g"
+                    },
+                    {
+                        "name": "Almond butter",
+                        "quantity": "1 tbsp",
+                        "weight": "16g"
+                    },
+                    {
+                        "name": "Vanilla extract",
+                        "quantity": "1/2 tsp",
+                        "weight": "2g"
+                    }
+                ],
+                "instructions": [
+                    "1. Blend frozen banana slices, almond butter, and vanilla extract in a food processor until creamy.",
+                    "2. Serve immediately as a soft-serve ice cream, or freeze for 1-2 hours for a firmer texture."
+                ],
+                "cooking_time_minutes": 5
+            },
+            "nutrition_per_100g": {
+                "calories": 130,
+                "protein_g": 2,
+                "carbohydrates_g": 27,
+                "fats_g": 4,
+                "fiber_g": 4
+            },
+            "image_link": "https://example.com/almond-butter-banana-ice-cream.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Avocado Chocolate Fudge",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Ripe avocado",
+                        "quantity": "1 medium",
+                        "weight": "150g"
+                    },
+                    {
+                        "name": "Cocoa powder (unsweetened)",
+                        "quantity": "1/4 cup",
+                        "weight": "20g"
+                    },
+                    {
+                        "name": "Maple syrup",
+                        "quantity": "2 tbsp",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Almond milk",
+                        "quantity": "2 tbsp",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Vanilla extract",
+                        "quantity": "1/2 tsp",
+                        "weight": "2g"
+                    }
+                ],
+                "instructions": [
+                    "1. Blend the avocado, cocoa powder, maple syrup, almond milk, and vanilla extract in a food processor until smooth.",
+                    "2. Pour the mixture into a silicone mold or lined dish.",
+                    "3. Freeze for 2-3 hours until set.",
+                    "4. Cut into squares and serve."
+                ],
+                "cooking_time_minutes": 10
+            },
+            "nutrition_per_100g": {
+                "calories": 170,
+                "protein_g": 2,
+                "carbohydrates_g": 16,
+                "fats_g": 12,
+                "fiber_g": 7
+            },
+            "image_link": "https://example.com/avocado-chocolate-fudge.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Coconut-Lime Energy Balls",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Shredded coconut",
+                        "quantity": "1/2 cup",
+                        "weight": "40g"
+                    },
+                    {
+                        "name": "Almonds (chopped)",
+                        "quantity": "1/4 cup",
+                        "weight": "30g"
+                    },
+                    {
+                        "name": "Honey",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Lime juice",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    },
+                    {
+                        "name": "Chia seeds",
+                        "quantity": "1 tbsp",
+                        "weight": "10g"
+                    }
+                ],
+                "instructions": [
+                    "1. In a bowl, combine shredded coconut, chopped almonds, honey, lime juice, and chia seeds.",
+                    "2. Mix well and roll into small balls.",
+                    "3. Chill in the refrigerator for at least 30 minutes before serving."
+                ],
+                "cooking_time_minutes": 10
+            },
+            "nutrition_per_100g": {
+                "calories": 200,
+                "protein_g": 4,
+                "carbohydrates_g": 18,
+                "fats_g": 14,
+                "fiber_g": 7
+            },
+            "image_link": "https://example.com/coconut-lime-energy-balls.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Frozen Yogurt Bark with Berries",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Greek yogurt (plain, non-fat)",
+                        "quantity": "1/2 cup",
+                        "weight": "120g"
+                    },
+                    {
+                        "name": "Mixed berries (blueberries, raspberries, strawberries)",
+                        "quantity": "1/4 cup",
+                        "weight": "40g"
+                    },
+                    {
+                        "name": "Honey",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    },
+                    {
+                        "name": "Almonds (chopped)",
+                        "quantity": "1 tbsp",
+                        "weight": "10g"
+                    }
+                ],
+                "instructions": [
+                    "1. Spread the Greek yogurt on a baking sheet lined with parchment paper.",
+                    "2. Drizzle with honey and top with mixed berries and chopped almonds.",
+                    "3. Freeze for 2-3 hours until firm.",
+                    "4. Break into pieces and serve."
+                ],
+                "cooking_time_minutes": 10
+            },
+            "nutrition_per_100g": {
+                "calories": 120,
+                "protein_g": 6,
+                "carbohydrates_g": 14,
+                "fats_g": 4,
+                "fiber_g": 3
+            },
+            "image_link": "https://example.com/frozen-yogurt-bark-berries.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Carrot Cake Energy Balls",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Shredded carrots",
+                        "quantity": "1/2 cup",
+                        "weight": "50g"
+                    },
+                    {
+                        "name": "Rolled oats",
+                        "quantity": "1/4 cup",
+                        "weight": "20g"
+                    },
+                    {
+                        "name": "Almond butter",
+                        "quantity": "1 tbsp",
+                        "weight": "16g"
+                    },
+                    {
+                        "name": "Chia seeds",
+                        "quantity": "1 tbsp",
+                        "weight": "10g"
+                    },
+                    {
+                        "name": "Cinnamon",
+                        "quantity": "1/2 tsp",
+                        "weight": "1g"
+                    },
+                    {
+                        "name": "Honey",
+                        "quantity": "1 tbsp",
+                        "weight": "15g"
+                    }
+                ],
+                "instructions": [
+                    "1. In a bowl, mix the shredded carrots, oats, almond butter, chia seeds, cinnamon, and honey.",
+                    "2. Roll the mixture into small balls.",
+                    "3. Chill in the refrigerator for at least 30 minutes before serving."
+                ],
+                "cooking_time_minutes": 10
+            },
+            "nutrition_per_100g": {
+                "calories": 180,
+                "protein_g": 5,
+                "carbohydrates_g": 25,
+                "fats_g": 8,
+                "fiber_g": 4
+            },
+            "image_link": "https://example.com/carrot-cake-energy-balls.jpg"
+        },
+        {
+            "recipe": {
+                "name": "Peanut Butter Banana Bites",
+                "servings": 1,
+                "ingredients": [
+                    {
+                        "name": "Banana (sliced)",
+                        "quantity": "1 medium",
+                        "weight": "120g"
+                    },
+                    {
+                        "name": "Peanut butter (natural)",
+                        "quantity": "1 tbsp",
+                        "weight": "16g"
+                    },
+                    {
+                        "name": "Dark chocolate chips",
+                        "quantity": "1 tsp",
+                        "weight": "5g"
+                    }
+                ],
+                "instructions": [
+                    "1. Slice the banana into rounds and place on a baking sheet.",
+                    "2. Top each banana slice with a small dollop of peanut butter.",
+                    "3. Sprinkle dark chocolate chips on top.",
+                    "4. Freeze for 30 minutes before serving."
+                ],
+                "cooking_time_minutes": 5
+            },
+            "nutrition_per_100g": {
+                "calories": 180,
+                "protein_g": 4,
+                "carbohydrates_g": 23,
+                "fats_g": 9,
+                "fiber_g": 3
+            },
+            "image_link": "https://example.com/peanut-butter-banana-bites.jpg"
+        }
+    ]
+}
